@@ -1,0 +1,997 @@
+<!doctype html><html lang="pt-BR" prefix="og: https://ogp.me/ns#"><head><script data-no-optimize="1">var litespeed_docref=sessionStorage.getItem("litespeed_docref");litespeed_docref&&(Object.defineProperty(document,"referrer",{get:function(){return litespeed_docref}}),sessionStorage.removeItem("litespeed_docref"));</script> <meta charset="UTF-8"><link data-optimized="2" rel="stylesheet" href="https://anchieta.br/wp-content/litespeed/css/ad60c06fa6ed30f88c7296ba4cb55c08.css?ver=5f90a" /><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="profile" href="https://gmpg.org/xfn/11"><title>Análise de Desenvolvimento de Sistemas - UniAnchieta 2024</title><meta name="description" content="Expanda horizontes com o curso de Análise de Desenvolvimento de Sistemas ADS na UniAnchieta. Prepare-se para uma carreira com expertise e profissionalismo."/><meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/><link rel="canonical" href="https://anchieta.br/ead/analise-de-desenvolvimento-de-sistemas-4-0/" /><meta property="og:locale" content="pt_BR" /><meta property="og:type" content="article" /><meta property="og:title" content="Análise de Desenvolvimento de Sistemas - UniAnchieta 2024" /><meta property="og:description" content="Expanda horizontes com o curso de Análise de Desenvolvimento de Sistemas ADS na UniAnchieta. Prepare-se para uma carreira com expertise e profissionalismo." /><meta property="og:url" content="https://anchieta.br/ead/analise-de-desenvolvimento-de-sistemas-4-0/" /><meta property="og:site_name" content="Unianchieta" /><meta property="article:section" content="ead" /><meta property="og:updated_time" content="2024-04-09T16:11:24-03:00" /><meta property="og:image" content="https://anchieta.br/wp-content/uploads/2023/08/Imagem9.jpg" /><meta property="og:image:secure_url" content="https://anchieta.br/wp-content/uploads/2023/08/Imagem9.jpg" /><meta property="og:image:width" content="998" /><meta property="og:image:height" content="665" /><meta property="og:image:alt" content="curso análise e desenvolvimento de sistemas UniAnchieta" /><meta property="og:image:type" content="image/jpeg" /><meta property="article:published_time" content="2023-08-21T16:50:19-03:00" /><meta property="article:modified_time" content="2024-04-09T16:11:24-03:00" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Análise de Desenvolvimento de Sistemas - UniAnchieta 2024" /><meta name="twitter:description" content="Expanda horizontes com o curso de Análise de Desenvolvimento de Sistemas ADS na UniAnchieta. Prepare-se para uma carreira com expertise e profissionalismo." /><meta name="twitter:image" content="https://anchieta.br/wp-content/uploads/2023/08/Imagem9.jpg" /><meta name="twitter:label1" content="Escrito por" /><meta name="twitter:data1" content="joao.helion" /><meta name="twitter:label2" content="Tempo para leitura" /><meta name="twitter:data2" content="3 minutos" /> <script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://anchieta.br/#place","address":{"@type":"PostalAddress","streetAddress":"Av. Odila Azalim - 575","addressLocality":"Vila Nova Jundiainopolis","addressRegion":"Jundia\u00ed - SP","postalCode":"13210-795","addressCountry":"Brasil"}},{"@type":["CollegeOrUniversity","Organization"],"@id":"https://anchieta.br/#organization","name":"Unianchieta","url":"https://anchieta.br","address":{"@type":"PostalAddress","streetAddress":"Av. Odila Azalim - 575","addressLocality":"Vila Nova Jundiainopolis","addressRegion":"Jundia\u00ed - SP","postalCode":"13210-795","addressCountry":"Brasil"},"logo":{"@type":"ImageObject","@id":"https://anchieta.br/#logo","url":"http://anchieta.br/wp-content/uploads/2023/11/logo-anchieta-80-anos.jpg","contentUrl":"http://anchieta.br/wp-content/uploads/2023/11/logo-anchieta-80-anos.jpg","caption":"Unianchieta","inLanguage":"pt-BR","width":"512","height":"512"},"contactPoint":[{"@type":"ContactPoint","telephone":"+55 0800 772 8445","contactType":"customer support"}],"location":{"@id":"https://anchieta.br/#place"}},{"@type":"WebSite","@id":"https://anchieta.br/#website","url":"https://anchieta.br","name":"Unianchieta","alternateName":"Faculdade Anchieta","publisher":{"@id":"https://anchieta.br/#organization"},"inLanguage":"pt-BR"},{"@type":"ImageObject","@id":"https://anchieta.br/wp-content/uploads/2023/08/Imagem9.jpg","url":"https://anchieta.br/wp-content/uploads/2023/08/Imagem9.jpg","width":"998","height":"665","caption":"curso an\u00e1lise e desenvolvimento de sistemas UniAnchieta","inLanguage":"pt-BR"},{"@type":"BreadcrumbList","@id":"https://anchieta.br/ead/analise-de-desenvolvimento-de-sistemas-4-0/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://anchieta.br","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://anchieta.br/category/ead/","name":"ead"}},{"@type":"ListItem","position":"3","item":{"@id":"https://anchieta.br/ead/analise-de-desenvolvimento-de-sistemas-4-0/","name":"An\u00e1lise de Desenvolvimento de Sistemas &#8211; UniAnchieta"}}]},{"@type":"WebPage","@id":"https://anchieta.br/ead/analise-de-desenvolvimento-de-sistemas-4-0/#webpage","url":"https://anchieta.br/ead/analise-de-desenvolvimento-de-sistemas-4-0/","name":"An\u00e1lise de Desenvolvimento de Sistemas - UniAnchieta 2024","datePublished":"2023-08-21T16:50:19-03:00","dateModified":"2024-04-09T16:11:24-03:00","isPartOf":{"@id":"https://anchieta.br/#website"},"primaryImageOfPage":{"@id":"https://anchieta.br/wp-content/uploads/2023/08/Imagem9.jpg"},"inLanguage":"pt-BR","breadcrumb":{"@id":"https://anchieta.br/ead/analise-de-desenvolvimento-de-sistemas-4-0/#breadcrumb"}},{"@type":"Person","@id":"https://anchieta.br/author/joao-helion/","name":"joao.helion","url":"https://anchieta.br/author/joao-helion/","image":{"@type":"ImageObject","@id":"https://anchieta.br/wp-content/litespeed/avatar/26de53cc76f092475a9b0ac03beafde1.jpg?ver=1713554364","url":"https://anchieta.br/wp-content/litespeed/avatar/26de53cc76f092475a9b0ac03beafde1.jpg?ver=1713554364","caption":"joao.helion","inLanguage":"pt-BR"},"worksFor":{"@id":"https://anchieta.br/#organization"}},{"@type":"BlogPosting","headline":"An\u00e1lise de Desenvolvimento de Sistemas - UniAnchieta 2024","keywords":"An\u00e1lise de Desenvolvimento de Sistemas","datePublished":"2023-08-21T16:50:19-03:00","dateModified":"2024-04-09T16:11:24-03:00","articleSection":"ead","author":{"@id":"https://anchieta.br/author/joao-helion/","name":"joao.helion"},"publisher":{"@id":"https://anchieta.br/#organization"},"description":"Expanda horizontes com o curso de An\u00e1lise de Desenvolvimento de Sistemas ADS na UniAnchieta. Prepare-se para uma carreira com expertise e profissionalismo.","name":"An\u00e1lise de Desenvolvimento de Sistemas - UniAnchieta 2024","@id":"https://anchieta.br/ead/analise-de-desenvolvimento-de-sistemas-4-0/#richSnippet","isPartOf":{"@id":"https://anchieta.br/ead/analise-de-desenvolvimento-de-sistemas-4-0/#webpage"},"image":{"@id":"https://anchieta.br/wp-content/uploads/2023/08/Imagem9.jpg"},"inLanguage":"pt-BR","mainEntityOfPage":{"@id":"https://anchieta.br/ead/analise-de-desenvolvimento-de-sistemas-4-0/#webpage"}}]}</script> <link rel='dns-prefetch' href='//www.googletagmanager.com' /><link rel="alternate" type="application/rss+xml" title="Feed para Faculdade Anchieta &raquo;" href="https://anchieta.br/feed/" /><link rel="alternate" type="application/rss+xml" title="Feed de comentários para Faculdade Anchieta &raquo;" href="https://anchieta.br/comments/feed/" /><link rel="alternate" type="application/rss+xml" title="Feed de comentários para Faculdade Anchieta &raquo; Análise de Desenvolvimento de Sistemas &#8211; UniAnchieta" href="https://anchieta.br/ead/analise-de-desenvolvimento-de-sistemas-4-0/feed/" /><link rel="alternate" type="application/rss+xml" title="Feed de Faculdade Anchieta &raquo; Story" href="https://anchieta.br/web-stories/feed/"><link rel='stylesheet' id='jet-elements-css' href='https://anchieta.br/wp-content/plugins/jet-elements/assets/css/jet-elements.css' media='all' /><link rel='stylesheet' id='jet-elements-skin-css' href='https://anchieta.br/wp-content/plugins/jet-elements/assets/css/jet-elements-skin.css' media='all' /> <script src="https://anchieta.br/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>  <script type="litespeed/javascript" data-src="https://www.googletagmanager.com/gtag/js?id=GT-P3MF945" id="google_gtagjs-js"></script> <script id="google_gtagjs-js-after" type="litespeed/javascript">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('set','linker',{"domains":["anchieta.br"]});gtag("js",new Date());gtag("set","developer_id.dZTNiMT",!0);gtag("config","GT-P3MF945")</script> <link rel="https://api.w.org/" href="https://anchieta.br/wp-json/" /><link rel="alternate" type="application/json" href="https://anchieta.br/wp-json/wp/v2/posts/7879" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://anchieta.br/xmlrpc.php?rsd" /><meta name="generator" content="WordPress 6.4.4" /><link rel='shortlink' href='https://anchieta.br/?p=7879' /><link rel="alternate" type="application/json+oembed" href="https://anchieta.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fanchieta.br%2Fead%2Fanalise-de-desenvolvimento-de-sistemas-4-0%2F" /><link rel="alternate" type="text/xml+oembed" href="https://anchieta.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fanchieta.br%2Fead%2Fanalise-de-desenvolvimento-de-sistemas-4-0%2F&#038;format=xml" /><meta name="generator" content="Site Kit by Google 1.121.0" /><meta name="generator" content="Elementor 3.19.4; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap"> <script src="data:text/javascript;base64,alF1ZXJ5KGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbigkKXt2YXIgZGVsYXk9MTAwO3NldFRpbWVvdXQoZnVuY3Rpb24oKXskKCcuZWxlbWVudG9yLXRhYi10aXRsZScpLnJlbW92ZUNsYXNzKCdlbGVtZW50b3ItYWN0aXZlJyk7JCgnLmVsZW1lbnRvci10YWItY29udGVudCcpLmNzcygnZGlzcGxheScsJ25vbmUnKX0sZGVsYXkpfSk=" defer></script>  <script type="litespeed/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-TGXFGTGG')</script> <link rel="icon" href="https://anchieta.br/wp-content/uploads/2023/07/cropped-Anchieta_Selo_80_anos_V3-1-simetrico-32x32.png" sizes="32x32" /><link rel="icon" href="https://anchieta.br/wp-content/uploads/2023/07/cropped-Anchieta_Selo_80_anos_V3-1-simetrico-192x192.png" sizes="192x192" /><link rel="apple-touch-icon" href="https://anchieta.br/wp-content/uploads/2023/07/cropped-Anchieta_Selo_80_anos_V3-1-simetrico-180x180.png" /><meta name="msapplication-TileImage" content="https://anchieta.br/wp-content/uploads/2023/07/cropped-Anchieta_Selo_80_anos_V3-1-simetrico-270x270.png" /><style id="jeg_dynamic_css" type="text/css" data-type="jeg_custom-css"></style></head><body class="post-template-default single single-post postid-7879 single-format-standard wp-custom-logo jet-mega-menu-location jet-engine-optimized-dom elementor-default elementor-template-full-width elementor-kit-8 elementor-page elementor-page-7879">
+<noscript>
+<iframe data-lazyloaded="1" src="about:blank" data-litespeed-src="https://www.googletagmanager.com/ns.html?id=GTM-TGXFGTGG" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript><div data-elementor-type="header" data-elementor-id="36671" class="elementor elementor-36671 elementor-location-header" data-elementor-post-type="elementor_library"><div class="elementor-element elementor-element-5a8ca817 e-con-full elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-parent" data-id="5a8ca817" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;position&quot;:&quot;fixed&quot;}" data-core-v316-plus="true"><div class="elementor-element elementor-element-10345c0e e-con-full e-flex e-con e-child" data-id="10345c0e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-2cb156b5 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="2cb156b5" data-element_type="widget" data-widget_type="image.default"><div class="elementor-widget-container">
+<a href="https://anchieta.br">
+<picture><source srcset="https://anchieta.br/wp-content/webp-express/webp-images/uploads/2023/10/logo-ancheta-80-anos-150x150.png.webp 150w, https://anchieta.br/wp-content/webp-express/webp-images/uploads/2023/10/logo-ancheta-80-anos-300x300.png.webp 300w, https://anchieta.br/wp-content/webp-express/webp-images/uploads/2023/10/logo-ancheta-80-anos.png.webp 512w" sizes="(max-width: 150px) 100vw, 150px" type="image/webp"><img src="https://anchieta.br/wp-content/uploads/2023/10/logo-ancheta-80-anos-150x150.png" class="attachment-thumbnail size-thumbnail wp-image-19809 webpexpress-processed" alt="logo-ancheta-80-anos.png" srcset="https://anchieta.br/wp-content/uploads/2023/10/logo-ancheta-80-anos-150x150.png 150w, https://anchieta.br/wp-content/uploads/2023/10/logo-ancheta-80-anos-300x300.png 300w, https://anchieta.br/wp-content/uploads/2023/10/logo-ancheta-80-anos.png 512w" sizes="(max-width: 150px) 100vw, 150px"></picture>								</a></div></div></div><div class="elementor-element elementor-element-6533eb1f e-con-full e-flex e-con e-child" data-id="6533eb1f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-7f25ed2f elementor-nav-menu__align-start elementor-widget__width-inherit elementor-hidden-mobile elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="7f25ed2f" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default"><div class="elementor-widget-container"><nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade"><ul id="menu-1-7f25ed2f" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-28163"><a href="https://anchieta.br/" class="elementor-item">HOME</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20515"><a href="https://escolas.anchieta.br/" class="elementor-item">ESCOLA</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28160"><a href="https://escolas.anchieta.br/tecnicos/" class="elementor-item">TÉCNICOS</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9362"><a href="https://anchieta.br/graduacao/" class="elementor-item">GRADUAÇÃO</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3598"><a href="https://anchieta.br/modalidades-pos-graduacao/" class="elementor-item">PÓS-GRADUAÇÃO</a><ul class="sub-menu elementor-nav-menu--dropdown"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11182"><a href="https://anchieta.br/pos-graduacao/" class="elementor-sub-item">PRESENCIAL LIVE</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11183"><a href="https://anchieta.br/pos-graduacao-ead/" class="elementor-sub-item">EAD</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3905"><a href="#" class="elementor-item elementor-item-anchor">CARREIRAS</a><ul class="sub-menu elementor-nav-menu--dropdown"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41026"><a href="https://anchieta.br/carreiras/" class="elementor-sub-item">CARREIRAS EDTECH</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3903"><a href="https://www.cursoslivres.anchieta.br/collections" class="elementor-sub-item">CURSOS LIVRES</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40228"><a href="https://tedxunianchieta.com.br/" class="elementor-sub-item">TEDxUni Anchieta</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4157"><a href="#" class="elementor-item elementor-item-anchor">SERVIÇOS</a><ul class="sub-menu elementor-nav-menu--dropdown"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4158"><a href="https://anchieta.br/nucleo-de-pratica-juridica/" class="elementor-sub-item">NÚCLEO DE PRÁTICA JURÍDICA</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4159"><a href="https://anchieta.br/clinica-da-saude/" class="elementor-sub-item">CLÍNICA DA SAÚDE</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30811"><a href="https://anchieta.br/centro-veterinario/" class="elementor-sub-item">CENTRO VETERINÁRIO</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19143"><a href="https://anchieta.br/centro-de-psicologia-aplicada/" class="elementor-sub-item">CENTRO DE PSICOLOGIA APLICADA (CPA)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36205"><a href="https://anchieta.br/eventos/" class="elementor-sub-item">EVENTOS</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36204"><a href="https://escolas.anchieta.br/vans/" class="elementor-sub-item">TRANSPORTE ESCOLAR</a></li></ul></li></ul></nav><div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span></div><nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true"><ul id="menu-2-7f25ed2f" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-28163"><a href="https://anchieta.br/" class="elementor-item" tabindex="-1">HOME</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20515"><a href="https://escolas.anchieta.br/" class="elementor-item" tabindex="-1">ESCOLA</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28160"><a href="https://escolas.anchieta.br/tecnicos/" class="elementor-item" tabindex="-1">TÉCNICOS</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9362"><a href="https://anchieta.br/graduacao/" class="elementor-item" tabindex="-1">GRADUAÇÃO</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3598"><a href="https://anchieta.br/modalidades-pos-graduacao/" class="elementor-item" tabindex="-1">PÓS-GRADUAÇÃO</a><ul class="sub-menu elementor-nav-menu--dropdown"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11182"><a href="https://anchieta.br/pos-graduacao/" class="elementor-sub-item" tabindex="-1">PRESENCIAL LIVE</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11183"><a href="https://anchieta.br/pos-graduacao-ead/" class="elementor-sub-item" tabindex="-1">EAD</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3905"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">CARREIRAS</a><ul class="sub-menu elementor-nav-menu--dropdown"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41026"><a href="https://anchieta.br/carreiras/" class="elementor-sub-item" tabindex="-1">CARREIRAS EDTECH</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3903"><a href="https://www.cursoslivres.anchieta.br/collections" class="elementor-sub-item" tabindex="-1">CURSOS LIVRES</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40228"><a href="https://tedxunianchieta.com.br/" class="elementor-sub-item" tabindex="-1">TEDxUni Anchieta</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4157"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">SERVIÇOS</a><ul class="sub-menu elementor-nav-menu--dropdown"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4158"><a href="https://anchieta.br/nucleo-de-pratica-juridica/" class="elementor-sub-item" tabindex="-1">NÚCLEO DE PRÁTICA JURÍDICA</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4159"><a href="https://anchieta.br/clinica-da-saude/" class="elementor-sub-item" tabindex="-1">CLÍNICA DA SAÚDE</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30811"><a href="https://anchieta.br/centro-veterinario/" class="elementor-sub-item" tabindex="-1">CENTRO VETERINÁRIO</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19143"><a href="https://anchieta.br/centro-de-psicologia-aplicada/" class="elementor-sub-item" tabindex="-1">CENTRO DE PSICOLOGIA APLICADA (CPA)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36205"><a href="https://anchieta.br/eventos/" class="elementor-sub-item" tabindex="-1">EVENTOS</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36204"><a href="https://escolas.anchieta.br/vans/" class="elementor-sub-item" tabindex="-1">TRANSPORTE ESCOLAR</a></li></ul></li></ul></nav></div></div></div><div class="elementor-element elementor-element-132a30d0 e-con-full e-flex e-con e-child" data-id="132a30d0" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-52301f93 e-con-full e-flex e-con e-child" data-id="52301f93" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-32302f2d elementor-align-right elementor-widget__width-inherit elementor-widget elementor-widget-button" data-id="32302f2d" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-xs" href="https://anchieta.br/formas-ingresso/">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">ESTUDE NO <br>ANCHIETA</span>
+</span>
+</a></div></div></div></div><div class="elementor-element elementor-element-58e3a0d5 e-con-full e-flex e-con e-child" data-id="58e3a0d5" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-1029ce10 elementor-align-center elementor-widget__width-inherit elementor-widget elementor-widget-button" data-id="1029ce10" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-xs" href="https://anchieta.br/portal-do-estudante-acesso/">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">SOU <br>ALUNO</span>
+</span>
+</a></div></div></div></div></div></div><div class="elementor-element elementor-element-cc467d8 e-con-full e-flex e-con e-parent" data-id="cc467d8" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}" data-core-v316-plus="true"></div><div class="elementor-element elementor-element-6f843117 e-con-full elementor-hidden-desktop e-flex e-con e-parent" data-id="6f843117" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;position&quot;:&quot;fixed&quot;}" data-core-v316-plus="true"><div class="elementor-element elementor-element-496f9368 e-con-full e-flex e-con e-child" data-id="496f9368" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}"><div class="elementor-element elementor-element-584e27cf elementor-align-center elementor-mobile-align-center elementor-widget-mobile__width-initial elementor-widget elementor-widget-button" data-id="584e27cf" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-xs elementor-animation-grow" href="https://api.whatsapp.com/send?phone=5511948477000&#038;text=Ol%C3%A1!%20Gostaria%20de%20receber%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Universidade%20Anchieta">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<i aria-hidden="true" class="fab fa-whatsapp"></i>			</span>
+<span class="elementor-button-text">WHATSAPP</span>
+</span>
+</a></div></div></div></div><div class="elementor-element elementor-element-5584c2f e-con-full e-flex e-con e-child" data-id="5584c2f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}"><div class="elementor-element elementor-element-8676011 elementor-widget-mobile__width-initial elementor-widget-tablet__width-initial elementor-widget elementor-widget-jet-mobile-menu" data-id="8676011" data-element_type="widget" data-widget_type="jet-mobile-menu.default"><div class="elementor-widget-container"><div  id="jet-mobile-menu-662583e9d1422" class="jet-mobile-menu jet-mobile-menu--location-elementor" data-menu-id="91" data-menu-options="{&quot;menuUniqId&quot;:&quot;662583e9d1422&quot;,&quot;menuId&quot;:&quot;91&quot;,&quot;mobileMenuId&quot;:&quot;91&quot;,&quot;location&quot;:&quot;elementor&quot;,&quot;menuLocation&quot;:false,&quot;menuLayout&quot;:&quot;slide-out&quot;,&quot;togglePosition&quot;:&quot;default&quot;,&quot;menuPosition&quot;:&quot;left&quot;,&quot;headerTemplate&quot;:&quot;&quot;,&quot;beforeTemplate&quot;:&quot;&quot;,&quot;afterTemplate&quot;:&quot;&quot;,&quot;useBreadcrumb&quot;:true,&quot;breadcrumbPath&quot;:&quot;full&quot;,&quot;toggleText&quot;:&quot;&quot;,&quot;toggleLoader&quot;:true,&quot;backText&quot;:&quot;&quot;,&quot;itemIconVisible&quot;:true,&quot;itemBadgeVisible&quot;:true,&quot;itemDescVisible&quot;:false,&quot;loaderColor&quot;:&quot;#3a3a3a&quot;,&quot;subTrigger&quot;:&quot;item&quot;,&quot;subOpenLayout&quot;:&quot;slide-in&quot;,&quot;closeAfterNavigate&quot;:false}">
+<mobile-menu></mobile-menu><div class="jet-mobile-menu__refs"><div ref="toggleClosedIcon"><i class="fas fa-bars"></i></div><div ref="toggleOpenedIcon"><i class="fas fa-times"></i></div><div ref="closeIcon"><i class="fas fa-times"></i></div><div ref="backIcon"><i class="fas fa-angle-left"></i></div><div ref="dropdownIcon"><i class="fas fa-angle-right"></i></div><div ref="dropdownOpenedIcon"><i class="fas fa-angle-down"></i></div><div ref="breadcrumbIcon"><i class="fas fa-angle-right"></i></div></div></div></div></div><div class="elementor-element elementor-element-3b9523d elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget-tablet__width-initial elementor-widget elementor-widget-image" data-id="3b9523d" data-element_type="widget" data-widget_type="image.default"><div class="elementor-widget-container">
+<a href="https://staging.anchieta.br">
+<picture><source srcset="https://anchieta.br/wp-content/webp-express/webp-images/uploads/2024/04/514706_custom_site_themes_id_eFqrtgtQwK4GgStl7x9J_logo-202.png-e1707941889118.png.webp 311w, https://anchieta.br/wp-content/webp-express/webp-images/uploads/2024/04/514706_custom_site_themes_id_eFqrtgtQwK4GgStl7x9J_logo-202.png-e1707941889118-300x68.png.webp 300w, https://anchieta.br/wp-content/webp-express/webp-images/uploads/2024/04/514706_custom_site_themes_id_eFqrtgtQwK4GgStl7x9J_logo-202.png-e1707941889118-150x34.png.webp 150w" sizes="(max-width: 311px) 100vw, 311px" type="image/webp"><img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMTEiIGhlaWdodD0iNzAiIHZpZXdCb3g9IjAgMCAzMTEgNzAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+" width="311" height="70" data-src="https://anchieta.br/wp-content/uploads/2024/04/514706_custom_site_themes_id_eFqrtgtQwK4GgStl7x9J_logo-202.png-e1707941889118.png" class="attachment-full size-full wp-image-42035 webpexpress-processed" alt="Grupo Anchieta" data-srcset="https://anchieta.br/wp-content/uploads/2024/04/514706_custom_site_themes_id_eFqrtgtQwK4GgStl7x9J_logo-202.png-e1707941889118.png 311w, https://anchieta.br/wp-content/uploads/2024/04/514706_custom_site_themes_id_eFqrtgtQwK4GgStl7x9J_logo-202.png-e1707941889118-300x68.png 300w, https://anchieta.br/wp-content/uploads/2024/04/514706_custom_site_themes_id_eFqrtgtQwK4GgStl7x9J_logo-202.png-e1707941889118-150x34.png 150w" data-sizes="(max-width: 311px) 100vw, 311px"></picture>								</a></div></div><div class="elementor-element elementor-element-aef90e2 elementor-align-center elementor-mobile-align-right elementor-widget-mobile__width-initial elementor-widget elementor-widget-button" data-id="aef90e2" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-xs elementor-animation-grow" href="https://staging.anchieta.br/formas-ingresso/">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">MATRICULE-SE</span>
+</span>
+</a></div></div></div></div></div></div><div data-elementor-type="wp-post" data-elementor-id="7879" class="elementor elementor-7879" data-elementor-post-type="post"><div class="elementor-element elementor-element-12512e8 e-con-full e-flex e-con e-parent" data-id="12512e8" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}" data-core-v316-plus="true"><div class="elementor-element elementor-element-67371f5 e-con-full e-flex e-con e-child" data-id="67371f5" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-cfe59b7 elementor-hidden-mobile elementor-widget elementor-widget-heading" data-id="cfe59b7" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h1 class="elementor-heading-title elementor-size-default">Faculdade de Análise de Desenvolvimento de Sistemas</h1></div></div><div class="elementor-element elementor-element-c1b30ad elementor-hidden-mobile elementor-widget elementor-widget-heading" data-id="c1b30ad" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">EAD</h2></div></div><div class="elementor-element elementor-element-3334127 e-con-full elementor-hidden-mobile e-flex e-con e-child" data-id="3334127" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"></div><div class="elementor-element elementor-element-ffe8c41 e-con-full elementor-hidden-desktop elementor-hidden-tablet e-flex e-con e-child" data-id="ffe8c41" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-3f6105e e-con-full e-flex e-con e-child" data-id="3f6105e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-858cbc8 elementor-widget elementor-widget-heading" data-id="858cbc8" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h1 class="elementor-heading-title elementor-size-default">Faculdade de Análise de Desenvolvimento de Sistemas</h1></div></div><div class="elementor-element elementor-element-4603d5f elementor-widget elementor-widget-heading" data-id="4603d5f" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">EAD</h2></div></div><div class="elementor-element elementor-element-0b69379 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="0b69379" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://anchieta.br/formas-ingresso/?curso=7116">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">FAÇA O VESTIBULAR</span>
+</span>
+</a></div></div></div><div class="elementor-element elementor-element-d5349b3 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="d5349b3" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm" href="https://anchieta.br/consulta-valores/?cod_curso=7116">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">VALOR DO CURSO</span>
+</span>
+</a></div></div></div></div></div><div class="elementor-element elementor-element-863a5eb elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="863a5eb" data-element_type="widget" data-widget_type="image.default"><div class="elementor-widget-container">
+<picture><source srcset="https://anchieta.br/wp-content/webp-express/webp-images/uploads/2023/08/Imagem8-e1692646769908.jpg.webp 557w, https://anchieta.br/wp-content/webp-express/webp-images/uploads/2023/08/Imagem8-e1692646769908-251x300.jpg.webp 251w" sizes="(max-width: 557px) 100vw, 557px" type="image/webp"><img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NTciIGhlaWdodD0iNjY1IiB2aWV3Qm94PSIwIDAgNTU3IDY2NSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=" fetchpriority="high" decoding="async" width="557" height="665" data-src="https://anchieta.br/wp-content/uploads/2023/08/Imagem8-e1692646769908.jpg" class="attachment-large size-large wp-image-7713 webpexpress-processed" alt="curso análise de desenvolvimento de sistemas ads UniAnchieta" data-srcset="https://anchieta.br/wp-content/uploads/2023/08/Imagem8-e1692646769908.jpg 557w, https://anchieta.br/wp-content/uploads/2023/08/Imagem8-e1692646769908-251x300.jpg 251w" data-sizes="(max-width: 557px) 100vw, 557px"></picture></div></div></div></div><div class="elementor-element elementor-element-08a46cb e-flex e-con-boxed e-con e-parent" data-id="08a46cb" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true"><div class="e-con-inner"><div class="elementor-element elementor-element-7c79f7e e-con-full e-flex e-con e-child" data-id="7c79f7e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-eefa553 elementor-widget elementor-widget-heading" data-id="eefa553" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">O que é Análise de Desenvolvimento de Sistemas?​</h2></div></div><div class="elementor-element elementor-element-3179bd4 elementor-widget elementor-widget-heading" data-id="3179bd4" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">Análise e Desenvolvimento de Sistemas é o Curso que engloba a investigação, planejamento, projeto e implementação de sistemas de software eficazes. Isso envolve compreender requisitos, modelar dados, definir arquiteturas e realizar testes para garantir qualidade da Aplicação, Softwares ou Sistemas, com isso, os profissionais interagem com usuários para capturar necessidades, estruturam informações com modelagem de dados e implementam funcionalidades por meio de programação. <br><br>A garantia de qualidade é feita via testes, mas além disso, engloba engenharia de software, gestão de projetos e segurança da informação. Os especialistas nessa área criam soluções que otimizam processos, melhoram eficiência e agregam valor a organizações, desenvolvendo sistemas internos, aplicativos públicos ou plataformas empresariais. <br><br>A Análise de Desenvolvimento de Sistemas é um curso fundamental na era tecnológica atual, e envolve a investigação minuciosa dos requisitos de um sistema, seguida pelo planejamento e criação de soluções eficientes, esse processo abrange desde a identificação das necessidades dos usuários até a implementação de softwares robustos, este curso combina habilidades técnicas com compreensão dos objetivos do negócio, assegurando a entrega de sistemas que impulsionam a produtividade e a inovação, podemos dizer que é a espinha dorsal por trás das soluções tecnológicas que moldam o mundo moderno.</h3></div></div><div class="elementor-element elementor-element-6da33d6 elementor-widget elementor-widget-spacer" data-id="6da33d6" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-0a3070a elementor-widget elementor-widget-heading" data-id="0a3070a" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">O que se estuda na graduação em  Análise de Desenvolvimento de Sistemas no UniAnchieta?</h3></div></div><div class="elementor-element elementor-element-29fb549 elementor-widget elementor-widget-heading" data-id="29fb549" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">O curso de Análise de Desenvolvimento de Sistemas abrange uma gama diversificada de tópicos. Os alunos aprendem a entender as necessidades dos usuários e traduzi-las em especificações, bem como a modelar dados e projetar bancos de dados eficientes, desenvolvendo habilidades de programação para criar aplicativos web e desktop, enquanto aprendem sobre a arquitetura de sistemas para planejar componentes e integrações. <br><br>A qualidade e os testes de software são abordados para garantir que os sistemas funcionem conforme o esperado, os alunos também estudam engenharia de software, design de interação humano-computador e gestão de projetos de desenvolvimento. A segurança da informação é crucial para proteger sistemas e dados. <br><br>Além disso, o curso explora linguagens de programação, redes de computadores e a aplicação de conceitos orientados a objetos no desenvolvimento. Essa formação ampla capacita os estudantes a se tornarem profissionais aptos a criar sistemas de software eficazes que atendam às necessidades das organizações e usuários. <br><br>Prepare-se para uma carreira emocionante no mercado tecnológico através do currículo robusto do UniAnchieta, projetado para atender às demandas do mercado atual, então junte-se a nós e participe de projetos práticos, aprenda com professores experientes e mergulhe no mundo da programação, análise de sistemas e muito mais. Invista no seu futuro com o curso de ADS da UniAnchieta e esteja pronto para liderar a inovação tecnológica. Garanta sua vaga hoje mesmo!</h3></div></div><div class="elementor-element elementor-element-6a589c9 elementor-widget elementor-widget-spacer" data-id="6a589c9" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-13bb88a elementor-widget elementor-widget-toggle" data-id="13bb88a" data-element_type="widget" data-widget_type="toggle.default"><div class="elementor-widget-container"><div class="elementor-toggle"><div class="elementor-toggle-item"><div id="elementor-tab-title-2061" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-2061" aria-expanded="false">
+<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+<span class="elementor-toggle-icon-closed"><i class="fas fa-chevron-down"></i></span>
+<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-chevron-up"></i></span>
+</span>
+<a class="elementor-toggle-title" tabindex="0">Estrutura Curricular - Ingressantes 2024</a></div><div id="elementor-tab-content-2061" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-2061"><table><tr><td>Levantamento de Requisitos</td></tr><tr><td>Modelagem de Dados</td></tr><tr><td>Projeto de Banco de Dados</td></tr><tr><td>Programação de Sistemas</td></tr><tr><td>Desenvolvimento de Aplicações Web</td></tr><tr><td>Desenvolvimento de Aplicações Desktop</td></tr><tr><td>Arquitetura de Sistemas</td></tr><tr><td>Qualidade e Testes de Software</td></tr><tr><td>Engenharia de Software</td></tr><tr><td>Interação Humano-Computador</td></tr><tr><td>Gestão de Projetos de Desenvolvimento</td></tr><tr><td>Segurança da Informação</td></tr><tr><td>Linguagens de Programação</td></tr><tr><td>Redes de Computadores</td></tr><tr><td>Análise e Projeto Orientado a Objetos</td></tr></table></div></div></div></div></div></div><div class="elementor-element elementor-element-155b437 e-con-full e-flex e-con e-child" data-id="155b437" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-25e03fa elementor-position-left elementor-mobile-position-left elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="25e03fa" data-element_type="widget" data-widget_type="icon-box.default"><div class="elementor-widget-container"><div class="elementor-icon-box-wrapper"><div class="elementor-icon-box-icon">
+<span  class="elementor-icon elementor-animation-">
+<i aria-hidden="true" class="fas fa-graduation-cap"></i>				</span></div><div class="elementor-icon-box-content"><h5 class="elementor-icon-box-title">
+<span  >
+Tipo do Curso					</span></h5><p class="elementor-icon-box-description">
+Tecnólogo - Online</p></div></div></div></div><div class="elementor-element elementor-element-5637dd6 elementor-align-center elementor-mobile-align-center elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="5637dd6" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://anchieta.br/formas-ingresso/?curso=7116">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">INSCREVA-SE</span>
+</span>
+</a></div></div></div><div class="elementor-element elementor-element-13afad0 elementor-widget elementor-widget-text-editor" data-id="13afad0" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><p>* As avaliações das disciplinas acontecem presencialmente, em nosso campus.</p><p>* As práticas extensionistas, assim como o estágio obrigatório poderão ser realizados, presencialmente, nos períodos da manhã, tarde ou noite, inclusive finais de semana e feriados, variando conforme a carga horária a ser cumprida em cada curso.</p></div></div><div class="elementor-element elementor-element-fbe7257 elementor-position-left elementor-mobile-position-left elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="fbe7257" data-element_type="widget" data-widget_type="icon-box.default"><div class="elementor-widget-container"><div class="elementor-icon-box-wrapper"><div class="elementor-icon-box-icon">
+<span  class="elementor-icon elementor-animation-">
+<i aria-hidden="true" class="fas fa-calendar-day"></i>				</span></div><div class="elementor-icon-box-content"><h5 class="elementor-icon-box-title">
+<span  >
+Dinâmica das aulas					</span></h5><p class="elementor-icon-box-description">
+Atividades presenciais: Prática Extensionista, Prova Oficial, Prova Substitutiva e Prova de Recuperação​</p></div></div></div></div><div class="elementor-element elementor-element-16b79ac elementor-position-left elementor-mobile-position-left elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="16b79ac" data-element_type="widget" data-widget_type="icon-box.default"><div class="elementor-widget-container"><div class="elementor-icon-box-wrapper"><div class="elementor-icon-box-icon">
+<span  class="elementor-icon elementor-animation-">
+<i aria-hidden="true" class="fas fa-hourglass-half"></i>				</span></div><div class="elementor-icon-box-content"><h5 class="elementor-icon-box-title">
+<span  >
+Duração					</span></h5><p class="elementor-icon-box-description">
+O curso tem 2,5 anos, mas os graduados realizarão em 1,5 anos</p></div></div></div></div><div class="elementor-element elementor-element-9163b40 elementor-position-left elementor-mobile-position-left elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="9163b40" data-element_type="widget" data-widget_type="icon-box.default"><div class="elementor-widget-container"><div class="elementor-icon-box-wrapper"><div class="elementor-icon-box-icon">
+<span  class="elementor-icon elementor-animation-">
+<i aria-hidden="true" class="fas fa-user-alt"></i>				</span></div><div class="elementor-icon-box-content"><h5 class="elementor-icon-box-title">
+<span  >
+Coordenador(a)					</span></h5><p class="elementor-icon-box-description">
+<b>Nome: </b>Me. Vanderlei Ienne<br><b>E-mail: </b>vanderlei.ienne@anchieta.br</p></div></div></div></div><div class="elementor-element elementor-element-de04781 elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="de04781" data-element_type="widget" data-widget_type="call-to-action.default"><div class="elementor-widget-container"><div class="elementor-cta"><div class="elementor-cta__content"><h5 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
+<span class="icon-dot theme small " style='font-size:1.4em; margin:0px 16px 0px 0px;'>          <i class="fas fa-dollar-sign"></i>    </span>Investimento</h5><div class="elementor-cta__description elementor-cta__content-item elementor-content-item"><div style="margin-left:45px;text-align:justify;">Clique no botão abaixo e confira os valores do curso.<br><br>Para ex-alunos graduados e funcionários de empresas conveniadas, grupos e equipes. (Bolsas sobre o valor de contrato).</div></div><div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
+<a class="elementor-cta__button elementor-button elementor-size-md" href="https://anchieta.br/consulta-valores/?cod_curso=7116">
+CONSULTE BOLSAS EXCLUSIVAS					</a></div></div></div></div></div><div class="elementor-element elementor-element-c7a261a elementor-position-left elementor-mobile-position-left elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="c7a261a" data-element_type="widget" data-widget_type="icon-box.default"><div class="elementor-widget-container"><div class="elementor-icon-box-wrapper"><div class="elementor-icon-box-icon">
+<span  class="elementor-icon elementor-animation-">
+<i aria-hidden="true" class="fas fa-map-marked-alt"></i>				</span></div><div class="elementor-icon-box-content"><h5 class="elementor-icon-box-title">
+<span  >
+Campus Prof. Pedro C. Fornari					</span></h5><p class="elementor-icon-box-description">
+Av. Odila Azalim, 575 – Vila Nova Jundiainópolis (Portaria 1)
+Av. Doutor Adoniro Ladeira, 94, (Portaria 2)</p></div></div></div></div><div class="elementor-element elementor-element-8dced75 elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="8dced75" data-element_type="widget" data-widget_type="call-to-action.default"><div class="elementor-widget-container"><div class="elementor-cta"><div class="elementor-cta__content"><h5 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
+<span class="icon-dot theme small " style='font-size:1.4em; margin:0px 1px 0px 0px;'>          <i class="far fa-question-circle"></i>    </span>Tem dúvidas?</h5><div class="elementor-cta__description elementor-cta__content-item elementor-content-item"><div style="margin-left:45px; text-align:justify;">Ligue para 11 4588-4444 ou, se preferir, fale conosco através do WhatsApp</div></div><div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
+<a class="elementor-cta__button elementor-button elementor-size-sm" href="https://api.whatsapp.com/send?phone=5511996295531&#038;text=Quero%20saber%20mais" target="_blank" rel="noopener">
+<span><i class="fab fa-whatsapp"></i> CHAMA NO WHATSAPP</span>					</a></div></div></div></div></div></div></div></div></div><div data-elementor-type="footer" data-elementor-id="42094" class="elementor elementor-42094 elementor-location-footer" data-elementor-post-type="elementor_library"><div class="elementor-element elementor-element-2c85ba0 e-con-full e-flex e-con e-parent" data-id="2c85ba0" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}" data-core-v316-plus="true"><div class="elementor-element elementor-element-c04aa28 e-flex e-con-boxed e-con e-child" data-id="c04aa28" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;content_width&quot;:&quot;boxed&quot;}"><div class="e-con-inner"><div class="elementor-element elementor-element-4ba91e8 e-con-full e-flex e-con e-child" data-id="4ba91e8" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-5f1145a e-con-full e-flex e-con e-child" data-id="5f1145a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-c2df1fa elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget elementor-widget-image" data-id="c2df1fa" data-element_type="widget" data-widget_type="image.default"><div class="elementor-widget-container">
+<picture><source srcset="https://anchieta.br/wp-content/webp-express/webp-images/uploads/2024/04/logo-ancheta-80-anos.png.webp 512w, https://anchieta.br/wp-content/webp-express/webp-images/uploads/2024/04/logo-ancheta-80-anos-300x300.png.webp 300w, https://anchieta.br/wp-content/webp-express/webp-images/uploads/2024/04/logo-ancheta-80-anos-150x150.png.webp 150w, https://anchieta.br/wp-content/webp-express/webp-images/uploads/2024/04/logo-ancheta-80-anos-250x250.png.webp 250w, https://anchieta.br/wp-content/webp-express/webp-images/uploads/2024/04/logo-ancheta-80-anos-96x96.png.webp 96w, https://anchieta.br/wp-content/webp-express/webp-images/uploads/2024/04/logo-ancheta-80-anos-75x75.png.webp 75w" sizes="(max-width: 512px) 100vw, 512px" type="image/webp"><img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=" width="512" height="512" data-src="https://anchieta.br/wp-content/uploads/2024/04/logo-ancheta-80-anos.png" class="attachment-large size-large wp-image-42097 webpexpress-processed" alt="logo-ancheta-80-anos" data-srcset="https://anchieta.br/wp-content/uploads/2024/04/logo-ancheta-80-anos.png 512w, https://anchieta.br/wp-content/uploads/2024/04/logo-ancheta-80-anos-300x300.png 300w, https://anchieta.br/wp-content/uploads/2024/04/logo-ancheta-80-anos-150x150.png 150w, https://anchieta.br/wp-content/uploads/2024/04/logo-ancheta-80-anos-250x250.png 250w, https://anchieta.br/wp-content/uploads/2024/04/logo-ancheta-80-anos-96x96.png 96w, https://anchieta.br/wp-content/uploads/2024/04/logo-ancheta-80-anos-75x75.png 75w" data-sizes="(max-width: 512px) 100vw, 512px"></picture></div></div></div><div class="elementor-element elementor-element-1a39f10 e-con-full e-flex e-con e-child" data-id="1a39f10" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-2981335 e-con-full e-flex e-con e-child" data-id="2981335" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-b2dbc07 elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="b2dbc07" data-element_type="widget" data-widget_type="icon-list.default"><div class="elementor-widget-container"><ul class="elementor-icon-list-items"><li class="elementor-icon-list-item">
+<a href="https://www.google.com/maps/place/Centro+Universit%C3%A1rio+Padre+Anchieta/@-23.2158053,-46.8930775,17z/data=!4m5!3m4!1s0x0:0x3cf61465d0b4072b!8m2!3d-23.2150572!4d-46.8917439?hl=pt-BR&#038;shorturl=1"><span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
+<span class="elementor-icon-list-text">UniAnchieta | Campus Prof. Pedro C. Fornari</span>
+</a></li></ul></div></div><div class="elementor-element elementor-element-ca99d80 elementor-widget elementor-widget-text-editor" data-id="ca99d80" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><p>Av. Odila Azalim, 575 &#8211; PORTARIA 1<br />Av. Doutor Adoniro Ladeira, 94 &#8211; PORTARIA 2<br />(Km 55,5 Rodovia Anhanguera)<br />Vila Nova Jundiainópolis &#8211; Jundiaí/SP<br />CEP: 13210-795</p></div></div><div class="elementor-element elementor-element-f4ede25 elementor-mobile-align-left elementor-widget-mobile__width-inherit elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="f4ede25" data-element_type="widget" data-widget_type="icon-list.default"><div class="elementor-widget-container"><ul class="elementor-icon-list-items"><li class="elementor-icon-list-item">
+<a href="https://www.google.com/maps/place/Col%C3%A9gio+Anchieta/@-23.192913,-46.886132,13z/data=!4m5!3m4!1s0x0:0x28f37a11bc63253c!8m2!3d-23.1929127!4d-46.8861316?hl=pt-BR"><span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
+<span class="elementor-icon-list-text">Escola Anchieta | Campus Central</span>
+</a></li></ul></div></div><div class="elementor-element elementor-element-7ce3dd2 elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="7ce3dd2" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container">
+Rua Bom Jesus de Pirapora, 100 / 140, Centro &#8211; Jundiaí/SP
+CEP: 13207-270</div></div></div></div><div class="elementor-element elementor-element-981bddc e-con-full e-flex e-con e-child" data-id="981bddc" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-e60a676 elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget elementor-widget-heading" data-id="e60a676" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">Acompanhe nossas redes sociais!</h3></div></div><div class="elementor-element elementor-element-ec989d2 elementor-shape-circle elementor-widget__width-inherit elementor-grid-tablet-2 elementor-grid-mobile-2 e-grid-align-mobile-center elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="ec989d2" data-element_type="widget" data-widget_type="social-icons.default"><div class="elementor-widget-container"><div class="elementor-social-icons-wrapper elementor-grid">
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-float elementor-repeater-item-3838837" href="https://www.instagram.com/grupoanchieta/" target="_blank">
+<span class="elementor-screen-only">Instagram</span>
+<i class="fab fa-instagram"></i>					</a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-float elementor-repeater-item-f6e91b8" href="https://www.youtube.com/channel/UCvWloEtisiepLqe2htTkNdA" target="_blank">
+<span class="elementor-screen-only">Youtube</span>
+<i class="fab fa-youtube"></i>					</a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-animation-float elementor-repeater-item-debc9e2" href="https://www.linkedin.com/school/unianchieta" target="_blank">
+<span class="elementor-screen-only">Linkedin</span>
+<i class="fab fa-linkedin"></i>					</a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-float elementor-repeater-item-47846b7" href="https://www.facebook.com/GrupoAnchieta/" target="_blank">
+<span class="elementor-screen-only">Facebook</span>
+<i class="fab fa-facebook"></i>					</a>
+</span></div></div></div></div></div><div class="elementor-element elementor-element-318d707 e-con-full e-flex e-con e-child" data-id="318d707" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-7b880f4 e-con-full e-flex e-con e-child" data-id="7b880f4" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-ac79d1c elementor-widget elementor-widget-heading" data-id="ac79d1c" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">Horário de Atendimento</h2></div></div><div class="elementor-element elementor-element-9b645c9 elementor-widget elementor-widget-text-editor" data-id="9b645c9" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><p>De 2ª a 6ª feira: das 07h30 às 21h30</p><p>Sábado: das 09h às 13h</p></div></div><div class="elementor-element elementor-element-2835403 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="2835403" data-element_type="widget" data-widget_type="icon-list.default"><div class="elementor-widget-container"><ul class="elementor-icon-list-items"><li class="elementor-icon-list-item">
+<a href="tel:08007728445"><span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+<span class="elementor-icon-list-text">(0800) 772 8445</span>
+</a></li><li class="elementor-icon-list-item">
+<a href="tel:1145884444"><span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+<span class="elementor-icon-list-text">(11) 4588-4444</span>
+</a></li><li class="elementor-icon-list-item">
+<a href="https://api.whatsapp.com/send?phone=5511948477000&#038;text=Quero%20receber%20mais%20informa%C3%A7%C3%B5es"><span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fab fa-whatsapp"></i>						</span>
+<span class="elementor-icon-list-text">(11) 94847-7000</span>
+</a></li></ul></div></div><div class="elementor-element elementor-element-0cb5137 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-html" data-id="0cb5137" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container">
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1144729248889473&ev=PageView&noscript=1"
+/></noscript></div></div></div><div class="elementor-element elementor-element-9c68237 e-con-full e-flex e-con e-child" data-id="9c68237" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-777b99c elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget elementor-widget-heading" data-id="777b99c" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">Consulte aqui o cadastro da Instituição no Sistema e-MEC</h3></div></div><div class="elementor-element elementor-element-4be0754 elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="4be0754" data-element_type="widget" data-widget_type="image.default"><div class="elementor-widget-container">
+<img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMzAiIGhlaWdodD0iMzMxIiB2aWV3Qm94PSIwIDAgMjMwIDMzMSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=" width="230" height="331" data-src="https://anchieta.br/wp-content/uploads/2024/04/MEC-Cadastro-1.webp" class="attachment-large size-large wp-image-42098" alt="MEC-Cadastro Acesse já" data-srcset="https://anchieta.br/wp-content/uploads/2024/04/MEC-Cadastro-1.webp 230w, https://anchieta.br/wp-content/uploads/2024/04/MEC-Cadastro-1-208x300.webp 208w, https://anchieta.br/wp-content/uploads/2024/04/MEC-Cadastro-1-150x216.webp 150w" data-sizes="(max-width: 230px) 100vw, 230px" /></div></div></div></div></div></div><div class="elementor-element elementor-element-bfdf65a e-flex e-con-boxed e-con e-child" data-id="bfdf65a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;content_width&quot;:&quot;boxed&quot;}"><div class="e-con-inner"><div class="elementor-element elementor-element-efc94d3 e-con-full e-flex e-con e-child" data-id="efc94d3" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-1b9ed49 elementor-widget elementor-widget-heading" data-id="1b9ed49" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">INSTITUIÇÃO</h2></div></div><div class="elementor-element elementor-element-e7b1ee2 elementor-widget elementor-widget-text-editor" data-id="e7b1ee2" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/acessibilidade" rel="noopener">Acessibilidade</a></div><div style="color: white;"><a style="color: white;" href="https://escolas.anchieta.br/visita-agendada/" rel="noopener">Agende uma visita &#8211; Escola</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/visite-o-campus" rel="noopener">Agende uma visita &#8211; Graduação</a></div><div style="color: white;"><a style="color: white;" href="https://institucional.anchieta.br/cadastro-de-ex-alunos/" rel="noopener">Cadastro de ex-alunos</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/formas-ingresso" rel="noopener">Como ingressar</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/fale-conosco" rel="noopener">Fale Conosco</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/historia-do-grupo-anchieta" rel="noopener">História do Grupo Anchieta</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/institucional" rel="noopener">Institucional</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/ouvidoria/" rel="noopener">Ouvidoria</a></div><div style="color: white;"><a style="color: white;" href="https://grupoanchieta.solides.jobs/" rel="noopener">Trabalhe Conosco</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/institucional" rel="noopener">Sobre o Anchieta</a></div></div></div></div><div class="elementor-element elementor-element-4945476 e-con-full e-flex e-con e-child" data-id="4945476" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-477ad1d elementor-widget elementor-widget-heading" data-id="477ad1d" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">ONLINE</h2></div></div><div class="elementor-element elementor-element-32114a7 elementor-widget elementor-widget-text-editor" data-id="32114a7" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div style="color: white; "><a style="color: white; " href="https://ng.anchieta.br/aluno-online/#/login" rel="noopener">Acesso Aluno Online</a></div><div style="color: white; "><a style="color: white; " href="https://ng.anchieta.br/donline/DOnline" rel="noopener">Acesso Docente Online</a></div><div style="color: white; "><a style="color: white; " href="https://ng.anchieta.br/donline/DOnline" rel="noopener">Acesso Coordenador Online</a></div><div style="color: white; "><a style="color: white; " href="https://staging.anchieta.br/avaliacao-institucional" rel="noopener">Avaliação Institucional</a></div><div style="color: white; "><a style="color: white; " href="https://staging.anchieta.br/blog" rel="noopener">Blog</a></div><div style="color: white; "><a style="color: white; " href="https://staging.anchieta.br/caderno-de-anais" rel="noopener">Caderno de Anais</a></div><div style="color: white; "><a style="color: white; " href="https://anchieta.instructure.com/login/canvas" rel="noopener">Canvas</a></div><div style="color: white; "><a style="color: white; " href="https://staging.anchieta.br/certificados" rel="noopener">Certificados</a></div><div style="color: white; "><a style="color: white; " href="https://staging.anchieta.br/editora-unianchieta" rel="noopener">Editora UniAnchieta</a></div><div style="color: white; "><a style="color: white; " href="https://staging.anchieta.br/english-tips" rel="noopener">English Tips</a></div><div style="color: white; "><a style="color: white; " href="https://www.intranet.anchieta.br/lyceumP/portal/principal.asp" rel="noopener">Intranet</a></div><div style="color: white; "><a style="color: white; " href="https://staging.anchieta.br/livros-academicos" rel="noopener">Livros Acadêmicos</a></div><div style="color: white; "><a style="color: white; " href="https://revistas.anchieta.br/" rel="noopener">Revistas Institucionais</a></div><div style="color: white; "><a style="color: white; " href="https://outlook.com/anchieta.br" target="_blank" rel="noopener">Webmail</a></div></div></div></div><div class="elementor-element elementor-element-059678e e-con-full e-flex e-con e-child" data-id="059678e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-60e372a elementor-widget elementor-widget-heading" data-id="60e372a" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">ESTUDE AQUI</h2></div></div><div class="elementor-element elementor-element-889f2fd elementor-widget elementor-widget-text-editor" data-id="889f2fd" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/vestibular" rel="noopener">Acompanhe a sua inscrição</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/comite-de-etica-em-pesquisa" rel="noopener">Comitê de Ética em Pesquisa (CEP)</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/ceua/" rel="noopener">Comissão de ética no uso de animais(CEUA)</a></div><div style="color: white;"><a style="color: white;" href="https://ng.anchieta.br/loja/home" rel="noopener">Currículo Circular</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/graduacao/" rel="noopener">Cursos de Graduação</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/pos-graduacao" rel="noopener">Cursos de Pós-Graduação</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/pos-graduacao-ead" rel="noopener">Cursos de Pós-Graduação EAD</a></div><div style="color: white;"><a style="color: white;" href="https://www.cursoslivres.anchieta.br/collections" rel="noopener">Cursos Gratuitos</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/editais-vestibular/">
+Edital Vestibular</a></div><div style="color: white;"><a style="color: white;" href="https://www.escolas.anchieta.br/ensino-infantil" rel="noopener">Ensino Infantil</a></div><div style="color: white;"><a style="color: white;" href="https://www.escolas.anchieta.br/fundamental-l" rel="noopener">Ensino Fundamental I</a></div><div style="color: white;"><a style="color: white;" href="https://www.escolas.anchieta.br/fundamental-ll" rel="noopener">Ensino Fundamental II</a></div><div style="color: white;"><a style="color: white;" href="https://www.escolas.anchieta.br/ensino-medio" rel="noopener">Ensino Médio</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/fies" rel="noopener">FIES</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/pesquisas" rel="noopener">Pesquisas</a></div><div style="color: white;"><a style="color: white;" href="https://www.pravaler.com.br/" rel="noopener">PRAVALER</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/prouni" rel="noopener">PROUNI</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/regulamentos" rel="noopener">Regulamentos</a></div></div></div></div><div class="elementor-element elementor-element-e5445a1 e-con-full e-flex e-con e-child" data-id="e5445a1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-ced2a94 elementor-widget elementor-widget-heading" data-id="ced2a94" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">SERVIÇOS</h2></div></div><div class="elementor-element elementor-element-e930838 elementor-widget elementor-widget-text-editor" data-id="e930838" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/academia-de-formacao-docente" rel="noopener">Academia de Formação Docente</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/biblioteca" rel="noopener">Biblioteca</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/bolsas-financiamento" rel="noopener">Bolsas e Financiamentos</a></div><div style="color: white;"><a style="color: white;" href="http://carreiras.anchieta.br/" rel="noopener">Carreiras</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/calendarios-academicos/" rel="noopener">Calendários Acadêmicos</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/centro-de-psicologia-aplicada" rel="noopener">Centro de Psicologia Aplicada</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/clinica-da-saude" rel="noopener">Clínica da Saúde</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/colacao-de-grau" rel="noopener">Colação de Grau</a></div><div style="color: white;"><a style="color: white;" href="https://app.anchieta.br/consulta_publica_dip/Index2.php" rel="noopener">Consulta Pública de Diploma</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/contratos" rel="noopener">Contratos</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/convenios" rel="noopener">Convênios</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/enade" rel="noopener">ENADE</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/eventos" rel="noopener">Eventos</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/incompany" rel="noopener">Incompany</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/nucleo-de-acessibilidade-e-educacao-inclusiva/" rel="noopener">Núcleo de Acessibilidade e Educação Inclusiva</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/nucleo-de-pratica-juridica" rel="noopener">Núcleo de Prática Jurídica</a></div><div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/como-lancar-proposta-de-estagio/" rel="noopener">Proposta de Estágio</a></div></div><div style="color: white;"><a style="color: white;" href="https://app.anchieta.br/Solicitacao_de_diplomas/" rel="noopener">Solicitação de Diploma</a></div><div><a style="color: white;" href="https://staging.anchieta.br/transporte" rel="noopener">Transporte Escolar</a></div><div style="color: white;"><a style="color: white;" href="https://staging.anchieta.br/validar-documento" rel="noopener">Validar documento</a></div></div></div></div><div class="elementor-element elementor-element-2311a40 e-con-full e-flex e-con e-child" data-id="2311a40" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-49026b0 elementor-widget elementor-widget-heading" data-id="49026b0" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default"><a href="https://staging.anchieta.br/politica-de-privacidade">Política de Privacidade</a></h3></div></div></div></div></div><div class="elementor-element elementor-element-e8291b7 e-con-full e-flex e-con e-child" data-id="e8291b7" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-9dd680d e-con-full e-flex e-con e-child" data-id="9dd680d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-element elementor-element-590c965 elementor-widget elementor-widget-heading" data-id="590c965" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">GRUPO ANCHIETA - TRADIÇÃO E INOVAÇÃO | 2024 © TODOS OS DIREITOS RESERVADOS</h3></div></div><div class="elementor-element elementor-element-d4058a2 elementor-widget elementor-widget-html" data-id="d4058a2" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"></div></div></div></div></div></div> <script id="ckyBannerTemplate" type="text/template"><div class="cky-overlay cky-hide"></div><div class="cky-btn-revisit-wrapper cky-revisit-hide" data-cky-tag="revisit-consent" data-tooltip="[cky_revisit_title]" style="background-color:#0056A7"> <button class="cky-btn-revisit" aria-label="Configuração dos Cookies"> <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://anchieta.br/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg" alt="Revisit consent button"> </button></div><div class="cky-consent-container cky-hide" tabindex="0"> <div class="cky-consent-bar" data-cky-tag="notice" style="background-color:#FFFFFF;border-color:#f4f4f4">  <div class="cky-notice"> <p class="cky-title" role="heading" aria-level="1" data-cky-tag="title" style="color:#212121">Cookies</p><div class="cky-notice-group"> <div class="cky-notice-des" data-cky-tag="description" style="color:#212121"> <div id="hs-eu-policy-wording">
+<p class="fonte-menor">Esse site utiliza cookies para oferecer uma melhor experiência de navegação, analisar como você interage em nosso site, otimizar o desempenho e personalizar o conteúdo. Ao utilizar este site, você concorda com o uso de cookies. Saiba mais em nossa <a href="https://www.anchieta.br/politica-de-privacidade">Política de Privacidade.</a></p>
+</div> </div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons">   <button class="cky-btn cky-btn-accept" aria-label="Ok" data-cky-tag="accept-button" style="color:#FFFFFF;background-color:#0051a0;border-color:#0051a0">Ok</button>  </div></div></div></div></div><div class="cky-modal" tabindex="0"> <div class="cky-preference-center" data-cky-tag="detail" style="color:#212121;background-color:#FFFFFF;border-color:#f4f4f4"> <div class="cky-preference-header"> <span class="cky-preference-title" role="heading" aria-level="1" data-cky-tag="detail-title" style="color:#212121">Customize Consent Preferences</span> <button class="cky-btn-close" aria-label="[cky_preference_close_label]" data-cky-tag="detail-close"> <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://anchieta.br/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg" alt="Close"> </button> </div><div class="cky-preference-body-wrapper"> <div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color:#212121"> <p>Utilizamos cookies para ajudá-lo a navegar com eficiência e executar determinadas funções. Você encontrará informações detalhadas sobre todos os cookies em cada categoria de consentimento abaixo.</p>
+<p>Os cookies categorizados como “Necessários” são armazenados no seu navegador, pois são essenciais para ativar as funcionalidades básicas do site.</p>
+<p>Também utilizamos cookies de terceiros que nos ajudam a analisar como você usa este site, armazenam suas preferências e fornecem conteúdo e anúncios que são relevantes para você. Estes cookies só serão armazenados no seu navegador com o seu consentimento prévio.</p>
+<p>Você pode optar por ativar ou desativar alguns ou todos esses cookies, mas a desativação de alguns deles pode afetar sua experiência de navegação.</p> </div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"> <div class="cky-accordion" id="ckyDetailCategorynecessary"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Necessário" data-cky-tag="detail-category-title" style="color:#212121">Necessário</button><span class="cky-always-active">Sempre Ativo</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchnecessary"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Os cookies necessários são necessários para ativar os recursos básicos deste site, como fornecer login seguro ou ajustar suas preferências de consentimento. Estes cookies não armazenam quaisquer dados de identificação pessoal.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Não há cookies para exibir</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryfunctional"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Funcional" data-cky-tag="detail-category-title" style="color:#212121">Funcional</button><span class="cky-always-active">Sempre Ativo</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchfunctional"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Os cookies funcionais ajudam a executar determinadas funcionalidades, como compartilhar o conteúdo do site em plataformas de mídia social, coletar feedback e outros recursos de terceiros.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Não há cookies para exibir</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryanalytics"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Análises" data-cky-tag="detail-category-title" style="color:#212121">Análises</button><span class="cky-always-active">Sempre Ativo</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchanalytics"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Os cookies analíticos são utilizados para compreender como os visitantes interagem com o site. Esses cookies ajudam a fornecer informações sobre métricas como número de visitantes, taxa de rejeição, origem do tráfego, etc.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Não há cookies para exibir</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryperformance"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Performance" data-cky-tag="detail-category-title" style="color:#212121">Performance</button><span class="cky-always-active">Sempre Ativo</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchperformance"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Os cookies de desempenho são usados ​​para compreender e analisar os principais índices de desempenho do site, o que ajuda a oferecer uma melhor experiência de usuário aos visitantes.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Não há cookies para exibir</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryadvertisement"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Anúncio" data-cky-tag="detail-category-title" style="color:#212121">Anúncio</button><span class="cky-always-active">Sempre Ativo</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchadvertisement"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Os cookies publicitários são utilizados para fornecer aos visitantes anúncios personalizados com base nas páginas que visitou anteriormente e para analisar a eficácia das campanhas publicitárias.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Não há cookies para exibir</p></div> </div> </div> </div></div><div class="cky-footer-wrapper"> <span class="cky-footer-shadow"></span> <div class="cky-prefrence-btn-wrapper" data-cky-tag="detail-buttons">  <button class="cky-btn cky-btn-preferences" aria-label="Salvar minhas preferências" data-cky-tag="detail-save-button" style="color:#000000;background-color:transparent;border-color:#0051A0"> Salvar minhas preferências </button> <button class="cky-btn cky-btn-accept" aria-label="Ok" data-cky-tag="detail-accept-button" style="color:#FFFFFF;background-color:#0051a0;border-color:#0051a0"> Ok </button> </div></div></div></div></script> <script type="text/x-template" id="mobile-menu-item-template"><li
+	:id="'jet-mobile-menu-item-'+itemDataObject.itemId"
+	:class="itemClasses"
+>
+	<div
+		class="jet-mobile-menu__item-inner"
+		tabindex="0"
+		:aria-label="itemDataObject.name"
+        aria-expanded="false"
+		v-on:click="itemSubHandler"
+		v-on:keyup.enter="itemSubHandler"
+	>
+		<a
+			:class="itemLinkClasses"
+			:href="itemDataObject.url"
+			:rel="itemDataObject.xfn"
+			:title="itemDataObject.attrTitle"
+			:target="itemDataObject.target"
+		>
+			<div class="jet-menu-item-wrapper">
+				<div
+					class="jet-menu-icon"
+					v-if="isIconVisible"
+					v-html="itemIconHtml"
+				></div>
+				<div class="jet-menu-name">
+					<span
+						class="jet-menu-label"
+						v-if="isLabelVisible"
+						v-html="itemDataObject.name"
+					></span>
+					<small
+						class="jet-menu-desc"
+						v-if="isDescVisible"
+						v-html="itemDataObject.description"
+					></small>
+				</div>
+				<div
+					class="jet-menu-badge"
+					v-if="isBadgeVisible"
+				>
+					<div class="jet-menu-badge__inner" v-html="itemDataObject.badgeContent"></div>
+				</div>
+			</div>
+		</a>
+		<span
+			class="jet-dropdown-arrow"
+			v-if="isSub && !templateLoadStatus"
+			v-html="dropdownIconHtml"
+			v-on:click="markerSubHandler"
+		>
+		</span>
+		<div
+			class="jet-mobile-menu__template-loader"
+			v-if="templateLoadStatus"
+		>
+			<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="24px" height="25px" viewBox="0 0 128 128" xml:space="preserve">
+				<g>
+					<linearGradient id="linear-gradient">
+						<stop offset="0%" :stop-color="loaderColor" stop-opacity="0"/>
+						<stop offset="100%" :stop-color="loaderColor" stop-opacity="1"/>
+					</linearGradient>
+				<path d="M63.85 0A63.85 63.85 0 1 1 0 63.85 63.85 63.85 0 0 1 63.85 0zm.65 19.5a44 44 0 1 1-44 44 44 44 0 0 1 44-44z" fill="url(#linear-gradient)" fill-rule="evenodd"/>
+				<animateTransform attributeName="transform" type="rotate" from="0 64 64" to="360 64 64" dur="1080ms" repeatCount="indefinite"></animateTransform>
+				</g>
+			</svg>
+		</div>
+	</div>
+
+	<transition name="menu-container-expand-animation">
+		<mobile-menu-list
+			v-if="isDropdownLayout && subDropdownVisible"
+			:depth="depth+1"
+			:children-object="itemDataObject.children"
+		></mobile-menu-list>
+	</transition>
+
+</li></script> <script type="text/x-template" id="mobile-menu-list-template"><div
+	class="jet-mobile-menu__list"
+	role="navigation"
+>
+	<ul class="jet-mobile-menu__items">
+		<mobile-menu-item
+			v-for="(item, index) in childrenObject"
+			:key="item.id"
+			:item-data-object="item"
+			:depth="depth"
+		></mobile-menu-item>
+	</ul>
+</div></script> <script type="text/x-template" id="mobile-menu-template"><div
+	:class="instanceClass"
+	v-on:keyup.esc="escapeKeyHandler"
+>
+	<div
+		class="jet-mobile-menu__toggle"
+		role="button"
+		ref="toggle"
+		tabindex="0"
+		aria-label="Open/Close Menu"
+        aria-expanded="false"
+		v-on:click="menuToggle"
+		v-on:keyup.enter="menuToggle"
+	>
+		<div
+			class="jet-mobile-menu__template-loader"
+			v-if="toggleLoaderVisible"
+		>
+			<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="24px" height="25px" viewBox="0 0 128 128" xml:space="preserve">
+				<g>
+					<linearGradient id="linear-gradient">
+						<stop offset="0%" :stop-color="loaderColor" stop-opacity="0"/>
+						<stop offset="100%" :stop-color="loaderColor" stop-opacity="1"/>
+					</linearGradient>
+				<path d="M63.85 0A63.85 63.85 0 1 1 0 63.85 63.85 63.85 0 0 1 63.85 0zm.65 19.5a44 44 0 1 1-44 44 44 44 0 0 1 44-44z" fill="url(#linear-gradient)" fill-rule="evenodd"/>
+				<animateTransform attributeName="transform" type="rotate" from="0 64 64" to="360 64 64" dur="1080ms" repeatCount="indefinite"></animateTransform>
+				</g>
+			</svg>
+		</div>
+
+		<div
+			class="jet-mobile-menu__toggle-icon"
+			v-if="!menuOpen && !toggleLoaderVisible"
+			v-html="toggleClosedIcon"
+		></div>
+		<div
+			class="jet-mobile-menu__toggle-icon"
+			v-if="menuOpen && !toggleLoaderVisible"
+			v-html="toggleOpenedIcon"
+		></div>
+		<span
+			class="jet-mobile-menu__toggle-text"
+			v-if="toggleText"
+			v-html="toggleText"
+		></span>
+
+	</div>
+
+	<transition name="cover-animation">
+		<div
+			class="jet-mobile-menu-cover"
+			v-if="menuContainerVisible && coverVisible"
+			v-on:click="closeMenu"
+		></div>
+	</transition>
+
+	<transition :name="showAnimation">
+		<div
+			class="jet-mobile-menu__container"
+			v-if="menuContainerVisible"
+		>
+			<div
+				class="jet-mobile-menu__container-inner"
+			>
+				<div
+					class="jet-mobile-menu__header-template"
+					v-if="headerTemplateVisible"
+				>
+					<div
+						class="jet-mobile-menu__header-template-content"
+						ref="header-template-content"
+						v-html="headerContent"
+					></div>
+				</div>
+
+				<div
+					class="jet-mobile-menu__controls"
+				>
+					<div
+						class="jet-mobile-menu__breadcrumbs"
+						v-if="isBreadcrumbs"
+					>
+						<div
+							class="jet-mobile-menu__breadcrumb"
+							v-for="(item, index) in breadcrumbsPathData"
+							:key="index"
+						>
+							<div
+								class="breadcrumb-label"
+								v-on:click="breadcrumbHandle(index+1)"
+								v-html="item"
+							></div>
+							<div
+								class="breadcrumb-divider"
+								v-html="breadcrumbIcon"
+								v-if="(breadcrumbIcon && index !== breadcrumbsPathData.length-1)"
+							></div>
+						</div>
+					</div>
+					<div
+						class="jet-mobile-menu__back"
+						role="button"
+						ref="back"
+						tabindex="0"
+						aria-label="Close Menu"
+                        aria-expanded="false"
+						v-if="!isBack && isClose"
+						v-html="closeIcon"
+						v-on:click="menuToggle"
+						v-on:keyup.enter="menuToggle"
+					></div>
+					<div
+						class="jet-mobile-menu__back"
+						role="button"
+						ref="back"
+						tabindex="0"
+						aria-label="Back to Prev Items"
+                        aria-expanded="false"
+						v-if="isBack"
+						v-html="backIcon"
+						v-on:click="goBack"
+						v-on:keyup.enter="goBack"
+					></div>
+				</div>
+
+				<div
+					class="jet-mobile-menu__before-template"
+					v-if="beforeTemplateVisible"
+				>
+					<div
+						class="jet-mobile-menu__before-template-content"
+						ref="before-template-content"
+						v-html="beforeContent"
+					></div>
+				</div>
+
+				<div
+					class="jet-mobile-menu__body"
+				>
+					<transition :name="animation">
+						<mobile-menu-list
+							v-if="!templateVisible"
+							:key="depth"
+							:depth="depth"
+							:children-object="itemsList"
+						></mobile-menu-list>
+						<div
+							class="jet-mobile-menu__template"
+							ref="template-content"
+							v-if="templateVisible"
+						>
+							<div
+								class="jet-mobile-menu__template-content"
+								v-html="itemTemplateContent"
+							></div>
+						</div>
+					</transition>
+				</div>
+
+				<div
+					class="jet-mobile-menu__after-template"
+					v-if="afterTemplateVisible"
+				>
+					<div
+						class="jet-mobile-menu__after-template-content"
+						ref="after-template-content"
+						v-html="afterContent"
+					></div>
+				</div>
+
+			</div>
+		</div>
+	</transition>
+</div></script> <script type="text/x-template" id="jet-advanced-reviews-comment-template"><div
+    :id="`jet-reviews-comment-item-${commentData.id}`"
+	class="jet-reviews-advanced__review-comment"
+	:class="commentClass"
+>
+	<div
+		class="jet-reviews-comment-user-avatar"
+		v-html="commentData.author.avatar"
+        v-if="$root.options.commentAuthorAvatarVisible"
+	></div>
+	<div class="jet-reviews-comment-container">
+		<div class="jet-reviews-comment-user-details">
+			<div class="jet-reviews-comment-user-name"><span>{{ commentData.author.name }}</span><time class="jet-reviews-published-date" :datetime="commentData.date.raw" :title="commentData.date.raw"><span>{{ commentData.date.human_diff }}</span></time></div>
+			<div
+				class="jet-reviews-user-data__verifications"
+				v-if="authorVerificationData"
+			>
+				<div
+					class="jet-reviews-user-data__verification"
+					:class="[ item.slug ]"
+					v-for="(item, index) in authorVerificationData"
+				>
+					<span class="verification-icon" v-html="item.icon" v-if="item.icon"></span>
+					<span class="verification-label" v-html="item.message"></span>
+				</div>
+
+			</div>
+		</div>
+		<p class="jet-reviews-comment-content" v-html="commentData.content"></p>
+		<div
+			class="jet-reviews-comment-actions"
+			v-if="formControlsVisible"
+		>
+			<div
+				class="jet-reviews-button jet-reviews-button--primary"
+				tabindex="0"
+				@click="showReplyForm"
+				@keyup.enter="showReplyForm"
+			>
+				<span class="jet-reviews-button__icon" v-if="replyIcon" v-html="replyIcon"></span>
+				<span class="jet-reviews-button__text">{{ $root.options.labels.replyButton }}</span>
+			</div>
+		</div>
+
+		<div
+			class="jet-reviews-comment-reply-form"
+			:class="{ 'jet-progress-state': replySubmiting }"
+			v-if="replyFormVisible"
+		>
+			<html-textarea
+				class="jet-reviews-input jet-reviews-input--textarea"
+				:data-placeholder="$root.options.labels.replyPlaceholder"
+				v-model="replyText"
+				ref="commentText"
+			></html-textarea>
+			<html-textarea
+				class="jet-reviews-input"
+				:is-valid="isValidAuthorName"
+				:placeholder="$root.options.labels.authorNamePlaceholder"
+				:not-valid-label="$root.options.labels.notValidFieldMessage"
+				v-model="replyAuthorName"
+				v-if="$root.guestNameFieldVisible"
+			></html-textarea>
+			<html-textarea
+				class="jet-reviews-input"
+				:is-valid="isValidAuthorEmail"
+				:placeholder="$root.options.labels.authorMailPlaceholder"
+				:not-valid-label="$root.options.labels.notValidFieldMessage"
+				v-model="replyAuthorMail"
+				v-if="$root.guestNameFieldVisible"
+			></html-textarea>
+
+			<div
+				class="jet-reviews-comment-reply-controls"
+			>
+				<div
+					class="jet-reviews-button jet-reviews-button--secondary"
+					tabindex="0"
+					@click="cancelNewReply"
+					@keyup.enter="cancelNewReply"
+				>
+					<div class="jet-reviews-button__text">{{ $root.options.labels.cancelButtonLabel }}</div>
+				</div>
+				<div
+					v-if="submitVisible"
+					class="jet-reviews-button jet-reviews-button--primary"
+					tabindex="0"
+					@click="submitNewReply"
+					@keyup.enter="submitNewReply"
+				>
+					<div class="jet-reviews-button__text">{{ $root.options.labels.submitReplyButton }}</div>
+				</div>
+			</div>
+
+			<div
+				v-if="responseMessage"
+				class="jet-reviews-comment-reply-message"
+			>
+				<span>{{ responseMessage }}</span>
+			</div>
+		</div>
+
+		<div
+			v-if="0 !== commentsList.length"
+			class="jet-reviews-comment-reply-list"
+		>
+			<jet-advanced-reviews-comment
+				v-for="comment in commentsList"
+				:key="comment.id"
+				:comment-data="comment"
+				:parent-id="+commentData.id"
+				:parent-comments="commentData.children"
+				:depth="1"
+			>
+			</jet-advanced-reviews-comment>
+		</div>
+
+	</div>
+
+</div></script> <script type="text/x-template" id="jet-advanced-reviews-form-template"><div
+	class="jet-reviews-advanced__new-review-form"
+	:class="{ 'jet-progress-state': reviewSubmiting }"
+>
+	<div class="jet-new-review-control jet-new-review-content"
+        v-if="reviewContentVisible">
+		<html-textarea
+			class="jet-reviews-input jet-reviews-input--textarea"
+			:is-valid="isValidReviewContent"
+			:placeholder="$root.options.labels.reviewContentPlaceholder"
+			:not-valid-label="$root.options.labels.notValidFieldMessage"
+			ref="reviewContent"
+			v-model="reviewContent"
+		></html-textarea>
+	</div>
+
+	<div class="jet-new-review-control jet-new-review-title"
+         v-if="reviewTitleVisible">
+		<html-textarea
+			class="jet-reviews-input"
+			:is-valid="isValidReviewTitle"
+			:placeholder="$root.options.labels.reviewTitlePlaceholder"
+			:not-valid-label="$root.options.labels.notValidFieldMessage"
+			v-model="reviewTitle"
+		></html-textarea>
+	</div>
+
+	<div
+		class="jet-new-review-control jet-new-review-author-name"
+		v-if="$root.guestNameFieldVisible"
+	>
+		<html-textarea
+			class="jet-reviews-input"
+			:is-valid="isValidAuthorName"
+			:placeholder="$root.options.labels.authorNamePlaceholder"
+			:not-valid-label="$root.options.labels.notValidFieldMessage"
+			v-model="reviewAuthorName"
+		></html-textarea>
+	</div>
+
+	<div
+		class="jet-new-review-control jet-new-review-author-mail"
+		v-if="$root.guestMailFieldVisible"
+	>
+		<html-textarea
+			class="jet-reviews-input"
+			:is-valid="isValidAuthorEmail"
+			:placeholder="$root.options.labels.authorMailPlaceholder"
+			:not-valid-label="$root.options.labels.notValidFieldMessage"
+			v-model="reviewAuthorMail"
+		></html-textarea>
+	</div>
+
+	<div class="jet-new-review-fields">
+		<div
+			class="jet-new-review-field"
+			v-for="(field, index) in fields"
+			:key="index"
+		>
+			<component
+				:is="$root.options.ratingInputType"
+				:max="field.field_max"
+				:step="field.field_step"
+				:label="field.field_label"
+				v-model="field.field_value"
+			></component>
+		</div>
+	</div>
+
+	<div
+		class="jet-new-review-controls"
+	>
+		<div
+			class="jet-reviews-button jet-reviews-button--secondary"
+			tabindex="0"
+			@click="cancelSubmit"
+			@keyup.enter="cancelSubmit"
+		>
+			<div class="jet-reviews-button__text">{{ $root.options.labels.cancelButtonLabel }}</div>
+		</div>
+		<div
+			v-if="formControlsVisible"
+			class="jet-reviews-button jet-reviews-button--primary"
+			tabindex="0"
+			@click="submitReview"
+			@keyup.enter="submitReview"
+		>
+			<div class="jet-reviews-button__text">{{ $root.options.labels.submitReviewButton }}</div>
+		</div>
+	</div>
+
+	<div
+		class="jet-new-review-message"
+		v-if="formMessageVisible"
+	>
+		<span>{{ messageText }}</span>
+	</div>
+
+</div></script> <script type="text/x-template" id="jet-advanced-reviews-item-template"><div :id="`jet-reviews-item-${itemData.id}`" class="jet-reviews-advanced__review">
+	<div class="jet-reviews-advanced__review-header">
+		<div class="jet-reviews-advanced__review-author">
+			<div class="jet-reviews-user-data">
+				<div
+					class="jet-reviews-user-data__avatar"
+					v-html="itemData.author.avatar"
+                    v-if="$root.options.reviewAuthorAvatarVisible"
+				></div>
+				<div class="jet-reviews-user-data__info">
+					<div class="jet-reviews-user-data__info-row">
+						<div class="jet-reviews-user-data__name">
+							<span v-html="itemData.author.name"></span>
+							<time class="jet-reviews-published-date" :datetime="itemData.date.raw" :title="itemData.date.raw"><span>{{ itemData.date.human_diff }}</span></time>
+						</div>
+						<div
+							class="jet-reviews-user-data__verifications"
+
+							v-if="authorVerificationData"
+						>
+							<div
+								class="jet-reviews-user-data__verification"
+								:class="[ item.slug ]"
+								v-for="(item, index) in authorVerificationData"
+							>
+								<span class="verification-icon" v-html="item.icon" v-if="item.icon"></span>
+								<span class="verification-label" v-html="item.message"></span>
+							</div>
+
+						</div>
+					</div>
+
+					<div
+						class="jet-reviews-user-data__summary-rating"
+						v-if="averageRatingVisible"
+					>
+						<component
+							:is="$root.options.ratingLayout"
+							:before="false"
+							:rating="+itemData.rating"
+							:after="'points-field' === $root.options.ratingLayout ? averageRatingData.value : false"
+						></component>
+					</div>
+					<div
+						class="jet-reviews-user-data__details-rating"
+						v-if="detailsRatingVisible"
+					>
+						<component
+							v-for="(item, index) in itemData.rating_data"
+							:is="$root.options.ratingLayout"
+							:key="index"
+							:before="item.field_label"
+							:rating="Math.round( +item.field_value * 100 / +item.field_max )"
+							:after="'points-field' === $root.options.ratingLayout ? +item.field_value : false"
+						></component>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="jet-reviews-advanced__review-misc">
+			<div
+				class="jet-reviews-advanced__review-pin"
+				v-html="pinnedIcon"
+				v-if="pinnedVisible"
+			>
+			</div>
+		</div>
+	</div>
+	<div
+		class="jet-reviews-advanced__review-container"
+	>
+		<h3
+            class="jet-reviews-advanced__review-title"
+            v-html="itemData.title"
+            v-if="$root.options.reviewTitleVisible"
+        ></h3>
+		<p class="jet-reviews-advanced__review-content" v-html="itemData.content"></p>
+	</div>
+	<div
+		class="jet-reviews-advanced__review-footer"
+	>
+		<div class="jet-reviews-advanced__review-controls">
+			<div
+				class="jet-reviews-advanced__review-control-group"
+				v-if="userCanRate"
+			>
+				<div
+					class="jet-reviews-button jet-reviews-button--secondary"
+					:class="{ 'jet-progress-state': approvalSubmiting }"
+					tabindex="0"
+					@click="updateApprovalHandler( 'like' )"
+					@keyup.enter="updateApprovalHandler( 'like' )"
+				>
+					<span class="jet-reviews-button__icon" v-html="likeIcon"></span>
+					<span class="jet-reviews-button__text">{{ itemData.like }}</span>
+				</div>
+
+				<div
+					class="jet-reviews-button jet-reviews-button--secondary"
+					:class="{ 'jet-progress-state': approvalSubmiting }"
+					tabindex="0"
+					@click="updateApprovalHandler( 'dislike' )"
+					@keyup.enter="updateApprovalHandler( 'dislike' )"
+				>
+					<span class="jet-reviews-button__icon" v-html="dislikeIcon"></span>
+					<span class="jet-reviews-button__text">{{ itemData.dislike }}</span>
+				</div>
+			</div>
+
+			<div class="jet-reviews-advanced__review-control-group">
+				<div
+					v-if="!isCommentsEmpty"
+					class="jet-reviews-button jet-reviews-button--primary"
+					tabindex="0"
+					@click="toggleCommentsVisible"
+					@keyup.enter="toggleCommentsVisible"
+				>
+					<span class="jet-reviews-button__icon" v-if="showCommentsIcon" v-html="showCommentsIcon"></span>
+					<span class="jet-reviews-button__text" v-if="!commentsVisible">{{ `${ $root.options.labels.showCommentsButton }(${ itemCommentsCount })` }}</span>
+					<span class="jet-reviews-button__text" v-if="commentsVisible">{{ `${ $root.options.labels.hideCommentsButton }(${ itemCommentsCount })` }}</span>
+				</div>
+
+				<div
+					v-if="userCanComment"
+					class="jet-reviews-button jet-reviews-button--primary"
+					tabindex="0"
+					@click="showCommentForm"
+					@keyup.enter="showCommentForm"
+				>
+					<span class="jet-reviews-button__icon" v-if="addCommentIcon" v-html="addCommentIcon"></span>
+					<span class="jet-reviews-button__text">{{ $root.options.labels.newCommentButton }}</span>
+				</div>
+			</div>
+		</div>
+		<div
+			class="jet-review-new-comment"
+			:class="{ 'jet-progress-state': commentSubmiting }"
+			v-if="commentFormVisible"
+		>
+			<div
+				class="jet-review-new-comment-form"
+			>
+				<html-textarea
+					class="jet-reviews-input jet-reviews-input--textarea"
+					:data-placeholder="$root.options.labels.commentPlaceholder"
+					ref="commentContent"
+					v-model="commentText"
+				></html-textarea>
+				<html-textarea
+					class="jet-reviews-input"
+					:is-valid="isValidAuthorName"
+					:placeholder="$root.options.labels.authorNamePlaceholder"
+					:not-valid-label="$root.options.labels.notValidFieldMessage"
+					v-model="commentAuthorName"
+					v-if="$root.guestNameFieldVisible"
+				></html-textarea>
+				<html-textarea
+					class="jet-reviews-input"
+					:is-valid="isValidAuthorEmail"
+					:placeholder="$root.options.labels.authorMailPlaceholder"
+					:not-valid-label="$root.options.labels.notValidFieldMessage"
+					v-model="commentAuthorMail"
+					v-if="$root.guestNameFieldVisible"
+				></html-textarea>
+				<div
+					class="jet-review-new-comment-controls"
+				>
+					<div
+						class="jet-reviews-button jet-reviews-button--secondary"
+						tabindex="0"
+						@click="cancelNewComment"
+						@keyup.enter="cancelNewComment"
+					>
+						<div class="jet-reviews-button__text">{{ $root.options.labels.cancelButtonLabel }}</div>
+					</div>
+					<div
+						v-if="commentControlsVisible"
+						class="jet-reviews-button jet-reviews-button--primary"
+						tabindex="0"
+						@click="submitNewComment"
+						@keyup.enter="submitNewComment"
+					>
+						<div class="jet-reviews-button__text">{{ $root.options.labels.submitCommentButton }}</div>
+					</div>
+				</div>
+				<div
+					class="jet-review-new-comment-message"
+					v-if="responseMessage"
+				>
+					<span>{{ responseMessage }}</span>
+				</div>
+			</div>
+		</div>
+		<div
+			class="jet-reviews-advanced__review-comments"
+			v-if="isCommentsVisible"
+		>
+			<h4 class="jet-reviews-advanced__comments-title">{{ $root.options.labels.сommentsTitle }}</h4>
+			<jet-advanced-reviews-comment
+				v-for="comment in itemData.comments"
+				:key="comment.id"
+				:comment-data="comment"
+				:parent-id="0"
+				:parent-comments="[]"
+				:depth="0"
+			>
+			</jet-advanced-reviews-comment>
+		</div>
+	</div>
+</div></script> <script type="text/x-template" id="jet-advanced-reviews-point-field-template"><div
+	class="jet-reviews-field jet-reviews-points-field"
+	:class="ratingClass"
+>
+	<div
+		class="jet-reviews-field__label jet-reviews-field__label-before"
+		v-if="!isBeforeEmpty"
+	>
+		<span>{{ before }}</span>
+	</div>
+	<div class="jet-reviews-field__rating">
+		<div class="jet-reviews-points-field__adjuster"></div>
+		<div class="jet-reviews-points-field__filled" :style="{ width: preparedRating + '%' }"></div>
+		<div class="jet-reviews-points-field__empty" :style="{ width: ( 100 - preparedRating ) + '%' }"></div>
+	</div>
+	<div
+		class="jet-reviews-field__label jet-reviews-field__label-after"
+		v-if="!isAfterEmpty"
+	>
+		<span>{{ after }}</span>
+	</div>
+</div></script> <script type="text/x-template" id="jet-advanced-reviews-slider-input-template"><div
+	class="jet-reviews-slider-input jet-reviews-range-input"
+>
+	<span
+		class="jet-new-review-field-label"
+		v-html="label"
+	></span>
+	<input
+		tabindex="0"
+		type="range"
+		min="0"
+		:step="step"
+		:max="max"
+		:value="value"
+		@input="handleInput"
+		@change="handleChange"
+	>
+	<span
+		class="jet-new-review-field-value"
+		v-html="valueLabel"
+	></span>
+</div></script> <script type="text/x-template" id="jet-advanced-reviews-star-field-template"><div
+	class="jet-reviews-field jet-reviews-stars-field"
+	:class="ratingClass"
+>
+	<div
+		class="jet-reviews-field__label jet-reviews-field__label-before"
+		v-if="!isBeforeEmpty"
+	>
+		<span>{{ before }}</span>
+	</div>
+	<div class="jet-reviews-field__rating">
+		<div
+			class="jet-reviews-stars jet-reviews-stars--adjuster"
+			v-html="emptyIcons"
+		></div>
+		<div
+			class="jet-reviews-stars jet-reviews-stars--filled"
+			:style="{ width: preparedRating + '%' }"
+			v-html="filledIcons"
+		>
+		</div>
+		<div
+			class="jet-reviews-stars jet-reviews-stars--empty"
+			:style="{ width: ( 100 - preparedRating ) + '%' }"
+			v-html="emptyIcons"
+		>
+		</div>
+	</div>
+	<div
+		class="jet-reviews-field__label jet-reviews-field__label-after"
+		v-if="!isAfterEmpty"
+	>
+		<span>{{ after }}</span>
+	</div>
+</div></script> <script type="text/x-template" id="jet-advanced-reviews-stars-input-template"><div
+	class="jet-reviews-stars-input"
+>
+	<span
+		class="jet-new-review-field-label"
+		v-html="label"
+	></span>
+	<div
+		class="jet-reviews-field jet-reviews-stars-field"
+		:class="ratingClass"
+	>
+		<div
+			class="jet-reviews-field__rating"
+		>
+			<div
+				class="jet-reviews-stars jet-reviews-stars--adjuster"
+				@mouseout="ratingMouseOut()"
+			>
+				<div
+					class="jet-reviews-star"
+					v-for="index in max"
+					:key="index"
+					v-html="emptyIcon"
+					@click="ratingClick( index )"
+					@mouseover="ratingMouseOver( index )"
+				></div>
+			</div>
+			<div
+				class="jet-reviews-stars jet-reviews-stars--filled"
+				:style="{ width: preparedRating + '%' }"
+				v-html="filledIcons"
+			>
+			</div>
+			<div
+				class="jet-reviews-stars jet-reviews-stars--empty"
+				:style="{ width: ( 100 - preparedRating ) + '%' }"
+				v-html="emptyIcons"
+			>
+			</div>
+		</div>
+	</div>
+	<span
+		class="jet-new-review-field-value"
+		v-html="valueLabel"
+	></span>
+</div></script> <script type="text/x-template" id="jet-reviews-widget-pagination-template"><div
+	:class="classesList"
+>
+	<div :class="[baseClass + '__items']">
+		<div
+			:class="prevClasses"
+			v-html="prevIcon"
+			@click="prev"
+		>
+		</div>
+		<div :class="firstPageClasses" @click="changePage(1)"><span>1</span></div>
+		<div v-if="currentPage > 5" :class="[baseClass + '__item', baseClass + '__item--jump-prev']" @click="fastPrev"><span>...</span></div>
+		<div v-if="currentPage === 5" :class="[baseClass + '__item']" @click="changePage(currentPage - 3)"><span>{{ currentPage - 3 }}</span></div>
+		<div v-if="currentPage - 2 > 1" :class="[baseClass + '__item']" @click="changePage(currentPage - 2)"><span>{{ currentPage - 2 }}</span></div>
+		<div v-if="currentPage - 1 > 1" :class="[baseClass + '__item']" @click="changePage(currentPage - 1)"><span>{{ currentPage - 1 }}</span></div>
+		<div v-if="currentPage != 1 && currentPage != allPages" :class="[baseClass + '__item',baseClass + '__item--active']"><span>{{ currentPage }}</span></div>
+		<div v-if="currentPage + 1 < allPages" :class="[baseClass + '__item']" @click="changePage(currentPage + 1)"><span>{{ currentPage + 1 }}</span></div>
+		<div v-if="currentPage + 2 < allPages" :class="[baseClass + '__item']" @click="changePage(currentPage + 2)"><span>{{ currentPage + 2 }}</span></div>
+		<div v-if="allPages - currentPage === 4" :class="[baseClass + '__item']" @click="changePage(currentPage + 3)"><span>{{ currentPage + 3 }}</span></div>
+		<div v-if="allPages - currentPage >= 5" :class="[baseClass + '__item', baseClass + '__item--jump-next']" @click="fastNext"><span>...</span></div>
+		<div v-if="allPages > 1" :class="lastPageClasses" @click="changePage(allPages)"><span>{{ allPages }}</span></div>
+		<div
+			:class="nextClasses"
+			v-html="nextIcon"
+			@click="next"
+		>
+		</div>
+	</div>
+</div></script> <div data-elementor-type="popup" data-elementor-id="8871" class="elementor elementor-8871 elementor-location-popup" data-elementor-settings="{&quot;open_selector&quot;:&quot;.popuptrigger&quot;,&quot;entrance_animation&quot;:&quot;none&quot;,&quot;exit_animation&quot;:&quot;none&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;prevent_close_on_background_click&quot;:&quot;yes&quot;,&quot;prevent_scroll&quot;:&quot;yes&quot;,&quot;triggers&quot;:[],&quot;timing&quot;:[]}" data-elementor-post-type="elementor_library"><section class="elementor-section elementor-top-section elementor-element elementor-element-37a91c7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="37a91c7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}"><div class="elementor-container elementor-column-gap-default"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0e25146" data-id="0e25146" data-element_type="column"><div class="elementor-widget-wrap elementor-element-populated"><div class="elementor-element elementor-element-9c65698 elementor-widget__width-initial elementor-widget elementor-widget-nav-menu" data-id="9c65698" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;dropdown&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default"><div class="elementor-widget-container"><nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true"><ul id="menu-2-9c65698" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-28163"><a href="https://anchieta.br/" class="elementor-item" tabindex="-1">HOME</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20515"><a href="https://escolas.anchieta.br/" class="elementor-item" tabindex="-1">ESCOLA</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28160"><a href="https://escolas.anchieta.br/tecnicos/" class="elementor-item" tabindex="-1">TÉCNICOS</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9362"><a href="https://anchieta.br/graduacao/" class="elementor-item" tabindex="-1">GRADUAÇÃO</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3598"><a href="https://anchieta.br/modalidades-pos-graduacao/" class="elementor-item" tabindex="-1">PÓS-GRADUAÇÃO</a><ul class="sub-menu elementor-nav-menu--dropdown"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11182"><a href="https://anchieta.br/pos-graduacao/" class="elementor-sub-item" tabindex="-1">PRESENCIAL LIVE</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11183"><a href="https://anchieta.br/pos-graduacao-ead/" class="elementor-sub-item" tabindex="-1">EAD</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3905"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">CARREIRAS</a><ul class="sub-menu elementor-nav-menu--dropdown"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41026"><a href="https://anchieta.br/carreiras/" class="elementor-sub-item" tabindex="-1">CARREIRAS EDTECH</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3903"><a href="https://www.cursoslivres.anchieta.br/collections" class="elementor-sub-item" tabindex="-1">CURSOS LIVRES</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40228"><a href="https://tedxunianchieta.com.br/" class="elementor-sub-item" tabindex="-1">TEDxUni Anchieta</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4157"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">SERVIÇOS</a><ul class="sub-menu elementor-nav-menu--dropdown"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4158"><a href="https://anchieta.br/nucleo-de-pratica-juridica/" class="elementor-sub-item" tabindex="-1">NÚCLEO DE PRÁTICA JURÍDICA</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4159"><a href="https://anchieta.br/clinica-da-saude/" class="elementor-sub-item" tabindex="-1">CLÍNICA DA SAÚDE</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30811"><a href="https://anchieta.br/centro-veterinario/" class="elementor-sub-item" tabindex="-1">CENTRO VETERINÁRIO</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19143"><a href="https://anchieta.br/centro-de-psicologia-aplicada/" class="elementor-sub-item" tabindex="-1">CENTRO DE PSICOLOGIA APLICADA (CPA)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36205"><a href="https://anchieta.br/eventos/" class="elementor-sub-item" tabindex="-1">EVENTOS</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36204"><a href="https://escolas.anchieta.br/vans/" class="elementor-sub-item" tabindex="-1">TRANSPORTE ESCOLAR</a></li></ul></li></ul></nav></div></div><div class="elementor-element elementor-element-a86d101 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a86d101" data-element_type="widget" data-widget_type="divider.default"><div class="elementor-widget-container"><div class="elementor-divider">
+<span class="elementor-divider-separator">
+</span></div></div></div><div class="elementor-element elementor-element-2b77e0f elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2b77e0f" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-xs elementor-animation-grow" href="http://anchieta.br/portal-do-estudante-acesso">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<i aria-hidden="true" class="fas fa-user-circle"></i>			</span>
+<span class="elementor-button-text">SOU ALUNO</span>
+</span>
+</a></div></div></div><div class="elementor-element elementor-element-ecbb9d9 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="ecbb9d9" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-xs elementor-animation-grow" href="http://anchieta.br/formas-ingresso">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<i aria-hidden="true" class="fas fa-user-circle"></i>			</span>
+<span class="elementor-button-text">ESTUDE NO ANCHIETA</span>
+</span>
+</a></div></div></div></div></div></div></section></div><div class="joinchat joinchat--right joinchat--btn" data-settings='{"telephone":"5511948477000","mobile_only":false,"button_delay":2,"whatsapp_web":true,"qr":false,"message_views":2,"message_delay":10,"message_badge":false,"message_send":"Olá! Gostaria de receber mais informações sobre a Universidade Anchieta","message_hash":""}'><div class="joinchat__button"><div class="joinchat__button__open"></div><div class="joinchat__tooltip"><div>Precisa de ajuda?</div></div></div></div> <script data-no-optimize="1">!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):(t="undefined"!=typeof globalThis?globalThis:t||self).LazyLoad=e()}(this,function(){"use strict";function e(){return(e=Object.assign||function(t){for(var e=1;e<arguments.length;e++){var n,a=arguments[e];for(n in a)Object.prototype.hasOwnProperty.call(a,n)&&(t[n]=a[n])}return t}).apply(this,arguments)}function i(t){return e({},it,t)}function o(t,e){var n,a="LazyLoad::Initialized",i=new t(e);try{n=new CustomEvent(a,{detail:{instance:i}})}catch(t){(n=document.createEvent("CustomEvent")).initCustomEvent(a,!1,!1,{instance:i})}window.dispatchEvent(n)}function l(t,e){return t.getAttribute(gt+e)}function c(t){return l(t,bt)}function s(t,e){return function(t,e,n){e=gt+e;null!==n?t.setAttribute(e,n):t.removeAttribute(e)}(t,bt,e)}function r(t){return s(t,null),0}function u(t){return null===c(t)}function d(t){return c(t)===vt}function f(t,e,n,a){t&&(void 0===a?void 0===n?t(e):t(e,n):t(e,n,a))}function _(t,e){nt?t.classList.add(e):t.className+=(t.className?" ":"")+e}function v(t,e){nt?t.classList.remove(e):t.className=t.className.replace(new RegExp("(^|\\s+)"+e+"(\\s+|$)")," ").replace(/^\s+/,"").replace(/\s+$/,"")}function g(t){return t.llTempImage}function b(t,e){!e||(e=e._observer)&&e.unobserve(t)}function p(t,e){t&&(t.loadingCount+=e)}function h(t,e){t&&(t.toLoadCount=e)}function n(t){for(var e,n=[],a=0;e=t.children[a];a+=1)"SOURCE"===e.tagName&&n.push(e);return n}function m(t,e){(t=t.parentNode)&&"PICTURE"===t.tagName&&n(t).forEach(e)}function a(t,e){n(t).forEach(e)}function E(t){return!!t[st]}function I(t){return t[st]}function y(t){return delete t[st]}function A(e,t){var n;E(e)||(n={},t.forEach(function(t){n[t]=e.getAttribute(t)}),e[st]=n)}function k(a,t){var i;E(a)&&(i=I(a),t.forEach(function(t){var e,n;e=a,(t=i[n=t])?e.setAttribute(n,t):e.removeAttribute(n)}))}function L(t,e,n){_(t,e.class_loading),s(t,ut),n&&(p(n,1),f(e.callback_loading,t,n))}function w(t,e,n){n&&t.setAttribute(e,n)}function x(t,e){w(t,ct,l(t,e.data_sizes)),w(t,rt,l(t,e.data_srcset)),w(t,ot,l(t,e.data_src))}function O(t,e,n){var a=l(t,e.data_bg_multi),i=l(t,e.data_bg_multi_hidpi);(a=at&&i?i:a)&&(t.style.backgroundImage=a,n=n,_(t=t,(e=e).class_applied),s(t,ft),n&&(e.unobserve_completed&&b(t,e),f(e.callback_applied,t,n)))}function N(t,e){!e||0<e.loadingCount||0<e.toLoadCount||f(t.callback_finish,e)}function C(t,e,n){t.addEventListener(e,n),t.llEvLisnrs[e]=n}function M(t){return!!t.llEvLisnrs}function z(t){if(M(t)){var e,n,a=t.llEvLisnrs;for(e in a){var i=a[e];n=e,i=i,t.removeEventListener(n,i)}delete t.llEvLisnrs}}function R(t,e,n){var a;delete t.llTempImage,p(n,-1),(a=n)&&--a.toLoadCount,v(t,e.class_loading),e.unobserve_completed&&b(t,n)}function T(o,r,c){var l=g(o)||o;M(l)||function(t,e,n){M(t)||(t.llEvLisnrs={});var a="VIDEO"===t.tagName?"loadeddata":"load";C(t,a,e),C(t,"error",n)}(l,function(t){var e,n,a,i;n=r,a=c,i=d(e=o),R(e,n,a),_(e,n.class_loaded),s(e,dt),f(n.callback_loaded,e,a),i||N(n,a),z(l)},function(t){var e,n,a,i;n=r,a=c,i=d(e=o),R(e,n,a),_(e,n.class_error),s(e,_t),f(n.callback_error,e,a),i||N(n,a),z(l)})}function G(t,e,n){var a,i,o,r,c;t.llTempImage=document.createElement("IMG"),T(t,e,n),E(c=t)||(c[st]={backgroundImage:c.style.backgroundImage}),o=n,r=l(a=t,(i=e).data_bg),c=l(a,i.data_bg_hidpi),(r=at&&c?c:r)&&(a.style.backgroundImage='url("'.concat(r,'")'),g(a).setAttribute(ot,r),L(a,i,o)),O(t,e,n)}function D(t,e,n){var a;T(t,e,n),a=e,e=n,(t=It[(n=t).tagName])&&(t(n,a),L(n,a,e))}function V(t,e,n){var a;a=t,(-1<yt.indexOf(a.tagName)?D:G)(t,e,n)}function F(t,e,n){var a;t.setAttribute("loading","lazy"),T(t,e,n),a=e,(e=It[(n=t).tagName])&&e(n,a),s(t,vt)}function j(t){t.removeAttribute(ot),t.removeAttribute(rt),t.removeAttribute(ct)}function P(t){m(t,function(t){k(t,Et)}),k(t,Et)}function S(t){var e;(e=At[t.tagName])?e(t):E(e=t)&&(t=I(e),e.style.backgroundImage=t.backgroundImage)}function U(t,e){var n;S(t),n=e,u(e=t)||d(e)||(v(e,n.class_entered),v(e,n.class_exited),v(e,n.class_applied),v(e,n.class_loading),v(e,n.class_loaded),v(e,n.class_error)),r(t),y(t)}function $(t,e,n,a){var i;n.cancel_on_exit&&(c(t)!==ut||"IMG"===t.tagName&&(z(t),m(i=t,function(t){j(t)}),j(i),P(t),v(t,n.class_loading),p(a,-1),r(t),f(n.callback_cancel,t,e,a)))}function q(t,e,n,a){var i,o,r=(o=t,0<=pt.indexOf(c(o)));s(t,"entered"),_(t,n.class_entered),v(t,n.class_exited),i=t,o=a,n.unobserve_entered&&b(i,o),f(n.callback_enter,t,e,a),r||V(t,n,a)}function H(t){return t.use_native&&"loading"in HTMLImageElement.prototype}function B(t,i,o){t.forEach(function(t){return(a=t).isIntersecting||0<a.intersectionRatio?q(t.target,t,i,o):(e=t.target,n=t,a=i,t=o,void(u(e)||(_(e,a.class_exited),$(e,n,a,t),f(a.callback_exit,e,n,t))));var e,n,a})}function J(e,n){var t;et&&!H(e)&&(n._observer=new IntersectionObserver(function(t){B(t,e,n)},{root:(t=e).container===document?null:t.container,rootMargin:t.thresholds||t.threshold+"px"}))}function K(t){return Array.prototype.slice.call(t)}function Q(t){return t.container.querySelectorAll(t.elements_selector)}function W(t){return c(t)===_t}function X(t,e){return e=t||Q(e),K(e).filter(u)}function Y(e,t){var n;(n=Q(e),K(n).filter(W)).forEach(function(t){v(t,e.class_error),r(t)}),t.update()}function t(t,e){var n,a,t=i(t);this._settings=t,this.loadingCount=0,J(t,this),n=t,a=this,Z&&window.addEventListener("online",function(){Y(n,a)}),this.update(e)}var Z="undefined"!=typeof window,tt=Z&&!("onscroll"in window)||"undefined"!=typeof navigator&&/(gle|ing|ro)bot|crawl|spider/i.test(navigator.userAgent),et=Z&&"IntersectionObserver"in window,nt=Z&&"classList"in document.createElement("p"),at=Z&&1<window.devicePixelRatio,it={elements_selector:".lazy",container:tt||Z?document:null,threshold:300,thresholds:null,data_src:"src",data_srcset:"srcset",data_sizes:"sizes",data_bg:"bg",data_bg_hidpi:"bg-hidpi",data_bg_multi:"bg-multi",data_bg_multi_hidpi:"bg-multi-hidpi",data_poster:"poster",class_applied:"applied",class_loading:"litespeed-loading",class_loaded:"litespeed-loaded",class_error:"error",class_entered:"entered",class_exited:"exited",unobserve_completed:!0,unobserve_entered:!1,cancel_on_exit:!0,callback_enter:null,callback_exit:null,callback_applied:null,callback_loading:null,callback_loaded:null,callback_error:null,callback_finish:null,callback_cancel:null,use_native:!1},ot="src",rt="srcset",ct="sizes",lt="poster",st="llOriginalAttrs",ut="loading",dt="loaded",ft="applied",_t="error",vt="native",gt="data-",bt="ll-status",pt=[ut,dt,ft,_t],ht=[ot],mt=[ot,lt],Et=[ot,rt,ct],It={IMG:function(t,e){m(t,function(t){A(t,Et),x(t,e)}),A(t,Et),x(t,e)},IFRAME:function(t,e){A(t,ht),w(t,ot,l(t,e.data_src))},VIDEO:function(t,e){a(t,function(t){A(t,ht),w(t,ot,l(t,e.data_src))}),A(t,mt),w(t,lt,l(t,e.data_poster)),w(t,ot,l(t,e.data_src)),t.load()}},yt=["IMG","IFRAME","VIDEO"],At={IMG:P,IFRAME:function(t){k(t,ht)},VIDEO:function(t){a(t,function(t){k(t,ht)}),k(t,mt),t.load()}},kt=["IMG","IFRAME","VIDEO"];return t.prototype={update:function(t){var e,n,a,i=this._settings,o=X(t,i);{if(h(this,o.length),!tt&&et)return H(i)?(e=i,n=this,o.forEach(function(t){-1!==kt.indexOf(t.tagName)&&F(t,e,n)}),void h(n,0)):(t=this._observer,i=o,t.disconnect(),a=t,void i.forEach(function(t){a.observe(t)}));this.loadAll(o)}},destroy:function(){this._observer&&this._observer.disconnect(),Q(this._settings).forEach(function(t){y(t)}),delete this._observer,delete this._settings,delete this.loadingCount,delete this.toLoadCount},loadAll:function(t){var e=this,n=this._settings;X(t,n).forEach(function(t){b(t,e),V(t,n,e)})},restoreAll:function(){var e=this._settings;Q(e).forEach(function(t){U(t,e)})}},t.load=function(t,e){e=i(e);V(t,e)},t.resetStatus=function(t){r(t)},Z&&function(t,e){if(e)if(e.length)for(var n,a=0;n=e[a];a+=1)o(t,n);else o(t,e)}(t,window.lazyLoadOptions),t});!function(e,t){"use strict";function a(){t.body.classList.add("litespeed_lazyloaded")}function n(){console.log("[LiteSpeed] Start Lazy Load Images"),d=new LazyLoad({elements_selector:"[data-lazyloaded]",callback_finish:a}),o=function(){d.update()},e.MutationObserver&&new MutationObserver(o).observe(t.documentElement,{childList:!0,subtree:!0,attributes:!0})}var d,o;e.addEventListener?e.addEventListener("load",n,!1):e.attachEvent("onload",n)}(window,document);</script><script data-no-optimize="1">var litespeed_vary=document.cookie.replace(/(?:(?:^|.*;\s*)_lscache_vary\s*\=\s*([^;]*).*$)|^.*$/,"");litespeed_vary||fetch("/wp-content/plugins/litespeed-cache/guest.vary.php",{method:"POST",cache:"no-cache",redirect:"follow"}).then(e=>e.json()).then(e=>{console.log(e),e.hasOwnProperty("reload")&&"yes"==e.reload&&(sessionStorage.setItem("litespeed_docref",document.referrer),window.location.reload(!0))});</script><script data-optimized="1" type="litespeed/javascript" data-src="https://anchieta.br/wp-content/litespeed/js/4a8c0d627471d53e963b4d6566bab828.js?ver=5f90a"></script><script>const litespeed_ui_events=["mouseover","click","keydown","wheel","touchmove","touchstart"];var urlCreator=window.URL||window.webkitURL;function litespeed_load_delayed_js_force(){console.log("[LiteSpeed] Start Load JS Delayed"),litespeed_ui_events.forEach(e=>{window.removeEventListener(e,litespeed_load_delayed_js_force,{passive:!0})}),document.querySelectorAll("iframe[data-litespeed-src]").forEach(e=>{e.setAttribute("src",e.getAttribute("data-litespeed-src"))}),"loading"==document.readyState?window.addEventListener("DOMContentLoaded",litespeed_load_delayed_js):litespeed_load_delayed_js()}litespeed_ui_events.forEach(e=>{window.addEventListener(e,litespeed_load_delayed_js_force,{passive:!0})});async function litespeed_load_delayed_js(){let t=[];for(var d in document.querySelectorAll('script[type="litespeed/javascript"]').forEach(e=>{t.push(e)}),t)await new Promise(e=>litespeed_load_one(t[d],e));document.dispatchEvent(new Event("DOMContentLiteSpeedLoaded")),window.dispatchEvent(new Event("DOMContentLiteSpeedLoaded"))}function litespeed_load_one(t,e){console.log("[LiteSpeed] Load ",t);var d=document.createElement("script");d.addEventListener("load",e),d.addEventListener("error",e),t.getAttributeNames().forEach(e=>{"type"!=e&&d.setAttribute("data-src"==e?"src":e,t.getAttribute(e))});let a=!(d.type="text/javascript");!d.src&&t.textContent&&(d.src=litespeed_inline2src(t.textContent),a=!0),t.after(d),t.remove(),a&&e()}function litespeed_inline2src(t){try{var d=urlCreator.createObjectURL(new Blob([t.replace(/^(?:<!--)?(.*?)(?:-->)?$/gm,"$1")],{type:"text/javascript"}))}catch(e){d="data:text/javascript;base64,"+btoa(t.replace(/^(?:<!--)?(.*?)(?:-->)?$/gm,"$1"))}return d}</script></body></html>
+<!-- Page optimized by LiteSpeed Cache @2024-04-21 18:23:54 -->
+
+<!-- Page cached by LiteSpeed Cache 6.1 on 2024-04-21 18:23:54 -->
+<!-- Guest Mode -->
+<!-- QUIC.cloud UCSS in queue -->
