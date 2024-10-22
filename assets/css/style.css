@@ -1651,7 +1651,7 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
   .slider{
     position:relative;
     left: 420px;
-    background: #000116;
+    background: #797979;
     width: 800px;
    
     min-height: 500px;
@@ -1668,11 +1668,13 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
     clip-path: circle(0% at 0 50%);
     justify-content: center;
     display: flex;
+    color: #fff;
   }
   
   .slider .slide.active{
     clip-path: circle(150% at 0 50%);
     transition: 2s;
+    color: #fff;
   }
   
   .slider .slide img{
@@ -1680,6 +1682,7 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    color: #fff;
   }
   
   .slider .slide .info{
@@ -1692,6 +1695,7 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 5px 25px rgb(1 1 1 / 5%);
+    
   }
   
   .slider .slide .info h2{
@@ -1759,11 +1763,27 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
   .navigation-visibility .slide-icon.active{
     background: #f59352;
   }
+  @media (max-width: 480px) {
+    .slider{
+        object-fit: contain; /* Reajustar para evitar zoom em telas menores */
+        max-height: 300px; /* Limitar a altura da imagem */
+    }
+}
   
   @media (max-width: 900px){
     .slider{
       width: 100%;
       margin-left: -414px;
+    
+    }
+  
+    .slider .slide img{
+
+      width: 150%;
+      height: 100%;
+      object-fit: contain; /* Importante para evitar o zoom */
+   
+      
     }
   
     
