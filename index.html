@@ -286,13 +286,13 @@
         <img src="assets/images/SITECORINTHIANS.jpg" alt="">
       </div>
       <div class="slide">
-        <img src="assets/images/programador.jpg" alt="">
+        <img src="assets/images/SiteSempreLinda.png" alt="">
       </div>
       <div class="slide">
-        <img src="" alt="">
+        <img src="assets/images/SiteSempreLinda2.png" alt="">
       </div>
       <div class="slide">
-        <img src="5.jpg" alt="">
+        <img src="assets/images/Formula1.jpg" alt="">
       </div>
       <div class="navigation">
         <i class="fas fa-chevron-left prev-btn"></i>
@@ -307,6 +307,37 @@
         <script src="assets/js/java.js"></script>
       </div>
     </div>
+    <script>
+      let slideIndex = 0;
+      const slides = document.querySelectorAll('.slider');
+
+      function mostrarSlide(index) {
+          if (index >= slides.length) {
+              slideIndex = 0;
+          } else if (index < 0) {
+              slideIndex = slides.length - 1;
+          } else {
+              slideIndex = index; 
+          }
+          
+   
+          const offset = -slideIndex * 100; // 100% para cada slide
+          document.querySelector('.slides').style.transform = `translateX(${offset}%)`;
+      }
+
+      // Função para mudar o slide
+      function mudarSlide(n) {
+          mostrarSlide(slideIndex + n);
+      }
+
+      // Inicializa o carrossel
+      mostrarSlide(slideIndex);
+
+      // Opcional: Mudar slide automaticamente a cada 3 segundos
+      setInterval(() => {
+          mudarSlide(1);
+      }, 0,1);
+  </script>
     
     
     <section id="knowledge">
